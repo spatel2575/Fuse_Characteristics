@@ -1,723 +1,2381 @@
-﻿tran_code,tran_cat_code,tran_terms_bal,Tran_Group
-160,3001,1,Purchases
-228,3560,14,Convenience Check Amount
-105,1026,2,Cash Advance Amount
-239,1026,2,Cash Advance Amount
-1002,1027,15,Cash Advance Amount
-105,1027,15,Cash Advance Amount
-239,1027,15,Cash Advance Amount
-160,3220,16,Purchases
-3006,3115,1,Purchases
-101,3115,1,Purchases
-160,2003,5,Purchases
-218,3244,3,Balance Transfer Amount
-228,3012,14,Convenience Check Amount
-3036,2228,1,Purchases
-104,3243,3,Convenience Check Amount
-101,2003,5,Purchases
-239,1020,15,Cash Advance Amount
-354,2228,1,Purchases
-354,2,2,Purchases
-354,4021,5,Purchases
-1025,2228,1,Purchases
-3031,2003,5,Purchases
-3036,2003,5,Purchases
-104,3254,3,Convenience Check Amount
-218,3255,3,Balance Transfer Amount
-1026,2228,1,Purchases
-104,3245,3,Convenience Check Amount
-1002,1021,15,Cash Advance Amount
-3031,3220,16,Purchases
-109,2003,5,Purchases
-1002,1024,15,Cash Advance Amount
-105,3269,17,Cash Advance Amount
-300,3255,3,Balance Transfer Amount
-300,2003,3,Balance Transfer Amount
-3001,2004,5,Purchases
-219,5,3,Convenience Check Amount
-228,3245,3,Convenience Check Amount
-3006,2006,5,Purchases
-101,2004,5,Purchases
-354,3,2,Purchases
-354,2226,1,Purchases
-3001,2014,1,Purchases
-3001,2007,5,Purchases
-3006,2007,5,Purchases
-9501,1,1,Purchases
-9503,3,2,Cash Advance Amount
-160,3115,1,Purchases
-9506,1,1,Purchases
-9521,3,2,Cash Advance Amount
-101,2007,5,Purchases
-101,400,1001,Purchases
-3001,400,1001,Purchases
-106,400,1001,Purchases
-3006,400,1001,Purchases
-101,1,1024,Purchases
-106,1,1024,Purchases
-101,1,1025,Purchases
-106,1,1025,Purchases
-1006,400,1001,Purchases
-1001,550,1001,Purchases
-3008,454,1005,Cash Advance Amount
-3005,454,1005,Cash Advance Amount
-3001,550,1001,Purchases
-1003,454,1005,Cash Advance Amount
-3006,550,1001,Purchases
-102,8345,24,Cash Advance Amount
-160,550,1001,Purchases
-101,550,1001,Purchases
-130,2016,5,Purchases
-218,2016,5,Purchases
-104,2004,5,Purchases
-219,8501,2,Cash Advance Amount
-303,452,1003,Balance Transfer Amount
-492,400,1001,Purchases
-299,402,1003,Balance Transfer Amount
-101,3001,1,Purchases
-138,2005,5,Purchases
-101,3005,3,Purchases
-1001,2017,16,Purchases
-101,2016,5,Purchases
-1001,2016,5,Purchases
-1006,2017,16,Purchases
-160,2016,5,Purchases
-1006,2016,5,Purchases
-160,2017,16,Purchases
-1026,8802,16,Purchases
-228,8342,3,Convenience Check Amount
-300,2005,5,Purchases
-187,1,1,Purchases
-102,3030,3,Cash Advance Amount
-101,3030,3,Purchases
-160,400,1001,Purchases
-107,1027,15,Cash Advance Amount
-1001,400,1001,Purchases
-101,1,1021,Purchases
-106,1,1021,Purchases
-130,400,1001,Purchases
-3031,400,1001,Purchases
-106,1,1029,Purchases
-101,1,1026,Purchases
-1025,400,1001,Purchases
-106,1,1026,Purchases
-101,1,1029,Purchases
-106,1,1023,Purchases
-239,454,1005,Cash Advance Amount
-101,1,1023,Purchases
-101,1,1002,Purchases
-106,1,1002,Purchases
-160,1027,15,Purchases
-160,8334,5,Purchases
-138,2016,5,Purchases
-104,2016,5,Purchases
-218,1,1,Purchases
-104,2010,5,Purchases
-104,2009,5,Purchases
-102,2005,5,Cash Advance Amount
-299,404,1005,Cash Advance Amount
-160,8333,5,Purchases
-160,8346,5,Purchases
-1006,8333,5,Purchases
-106,1,1027,Purchases
-101,1,1027,Purchases
-1002,454,1005,Cash Advance Amount
-107,671,15,Cash Advance Amount
-1006,8334,5,Purchases
-102,454,1005,Cash Advance Amount
-101,8345,24,Purchases
-1006,8345,5,Purchases
-325,405,1006,Purchases
-9506,400,1001,Purchases
-9501,400,1001,Purchases
-1026,2015,5,Purchases
-1003,3,15,Cash Advance Amount
-1002,2,15,Cash Advance Amount
-101,8334,21,Purchases
-298,400,1001,Purchases
-299,400,1001,Purchases
-160,8334,21,Purchases
-160,8333,21,Purchases
-1001,2018,16,Purchases
-3006,2018,16,Purchases
-3001,2018,16,Purchases
-1006,2018,16,Purchases
-101,2018,16,Purchases
-160,2018,16,Purchases
-107,2018,15,Cash Advance Amount
-1001,1,5,Purchases
-3006,8334,16,Purchases
-3006,8333,16,Purchases
-101,1,5,Purchases
-300,8333,3,Balance Transfer Amount
-9506,2018,16,Purchases
-9501,2018,16,Purchases
-1006,2018,5,Purchases
-3001,1,16,Purchases
-1006,8334,16,Purchases
-101,1,16,Purchases
-1006,8349,16,Purchases
-1006,8349,5,Purchases
-106,2018,16,Purchases
-1001,1,16,Purchases
-1006,8366,5,Purchases
-130,2018,16,Purchases
-3031,2018,16,Purchases
-375,2018,16,Purchases
-1025,2018,16,Purchases
-160,3050,4,Purchases
-102,8334,21,Cash Advance Amount
-3006,8334,5,Purchases
-160,2005,4,Purchases
-101,3051,4,Purchases
-102,8349,25,Cash Advance Amount
-219,2016,5,Purchases
-219,2005,5,Purchases
-160,8350,5,Purchases
-160,3051,4,Purchases
-106,2018,5,Purchases
-102,8333,21,Cash Advance Amount
-101,8350,25,Purchases
-130,3001,1,Purchases
-101,8349,25,Purchases
-3001,2016,5,Purchases
-222,8501,2,Cash Advance Amount
-480,1,1,Purchases
-813,1,1,Purchases
-138,24,6,Purchases
-168,24,6,Purchases
-831,1,1,Purchases
-370,1,1,Purchases
-368,22,1,Purchases
-9523,45,1,Purchases
-9524,45,1,Purchases
-3031,2015,5,Purchases
-160,2016,1,Purchases
-3006,2016,5,Purchases
-102,8365,29,Cash Advance Amount
-1006,8350,5,Purchases
-101,8358,27,Purchases
-1006,8373,5,Purchases
-3006,8333,5,Purchases
-101,8341,23,Purchases
-101,8365,29,Purchases
-101,8366,29,Purchases
-101,8342,23,Purchases
-101,8357,27,Purchases
-101,8374,31,Purchases
-102,8370,30,Cash Advance Amount
-160,8357,27,Purchases
-3006,2224,1,Purchases
-218,3181,3,Balance Transfer Amount
-3001,3220,16,Purchases
-130,2228,1,Purchases
-160,8803,16,Purchases
-1025,8803,16,Purchases
-3036,8803,16,Purchases
-101,3415,16,Purchases
-3036,8802,16,Purchases
-1001,2005,5,Purchases
-1006,2005,5,Purchases
-1025,2015,5,Purchases
-101,2005,5,Purchases
-160,2005,5,Purchases
-218,2005,5,Purchases
-375,22,1,Purchases
-376,22,1,Purchases
-228,8350,3,Convenience Check Amount
-228,8737,14,Convenience Check Amount
-228,8354,3,Convenience Check Amount
-228,8358,3,Convenience Check Amount
-104,2003,5,Purchases
-104,2005,5,Purchases
-104,3134,3,Convenience Check Amount
-228,3050,3,Convenience Check Amount
-354,3001,1,Purchases
-1006,3358,10,Purchases
-3001,3358,10,Purchases
-160,3358,10,Purchases
-101,3358,10,Purchases
-1025,3358,10,Purchases
-3036,3358,10,Purchases
-3031,3358,10,Purchases
-1001,3358,16,Purchases
-1006,3358,16,Purchases
-1025,3358,16,Purchases
-3006,3358,16,Purchases
-101,3358,16,Purchases
-354,3358,16,Purchases
-3031,3358,16,Purchases
-131,1019,15,Cash Advance Amount
-106,3358,16,Purchases
-130,3358,16,Purchases
-3001,2009,5,Purchases
-3006,2009,5,Purchases
-109,2009,5,Purchases
-160,2006,5,Purchases
-161,1019,15,Cash Advance Amount
-1002,1025,2,Cash Advance Amount
-1003,1026,2,Cash Advance Amount
-1028,1026,2,Cash Advance Amount
-101,1028,15,Purchases
-3001,3632,16,Purchases
-1001,3633,16,Purchases
-3001,3633,16,Purchases
-101,3632,16,Purchases
-160,3632,16,Purchases
-101,3633,16,Purchases
-160,3633,16,Purchases
-160,2015,5,Purchases
-1025,3633,16,Purchases
-130,2224,1,Purchases
-101,3220,16,Purchases
-1028,3,2,Cash Advance Amount
-218,3289,3,Balance Transfer Amount
-160,2224,1,Purchases
-106,2003,5,Purchases
-3006,2004,5,Purchases
-3001,2223,1,Purchases
-3001,2006,5,Purchases
-218,3318,3,Balance Transfer Amount
-300,3318,3,Balance Transfer Amount
-1001,3358,10,Purchases
-3006,3358,10,Purchases
-3001,3358,16,Purchases
-160,3358,16,Purchases
-101,1,1,Purchases
-218,3415,16,Balance Transfer Amount
-227,4100,3,Convenience Check Amount
-101,2003,1,Purchases
-1003,1026,15,Cash Advance Amount
-1002,1025,15,Cash Advance Amount
-105,1026,15,Cash Advance Amount
-1001,2003,5,Purchases
-1006,2003,5,Purchases
-218,2003,3,Balance Transfer Amount
-161,1025,15,Cash Advance Amount
-376,2225,1,Purchases
-300,3160,3,Balance Transfer Amount
-300,3244,3,Balance Transfer Amount
-1001,4021,5,Purchases
-3001,2227,1,Purchases
-3006,2227,1,Purchases
-160,2228,1,Purchases
-160,2227,1,Purchases
-1006,4021,5,Purchases
-228,3159,3,Convenience Check Amount
-1003,1020,15,Cash Advance Amount
-1002,1019,15,Cash Advance Amount
-3002,1019,15,Cash Advance Amount
-3005,1020,15,Cash Advance Amount
-3038,2,2,Cash Advance Amount
-3001,3172,16,Purchases
-218,3170,3,Balance Transfer Amount
-101,2227,1,Purchases
-101,2228,1,Purchases
-106,2228,1,Purchases
-3031,2228,1,Purchases
-3006,3172,16,Purchases
-102,1019,15,Cash Advance Amount
-101,3172,16,Purchases
-104,3030,3,Convenience Check Amount
-3002,1021,15,Cash Advance Amount
-1001,3172,16,Purchases
-1006,3172,16,Purchases
-104,3169,3,Convenience Check Amount
-106,3172,16,Purchases
-160,3172,16,Purchases
-296,3131,3,Balance Transfer Amount
-354,15,1,Purchases
-3031,1024,5,Purchases
-3031,3172,16,Purchases
-3036,3172,16,Purchases
-228,3130,3,Convenience Check Amount
-3031,2226,1,Purchases
-1001,2224,1,Purchases
-1006,2224,1,Purchases
-3001,2224,1,Purchases
-130,3172,16,Purchases
-3031,4021,5,Purchases
-104,3180,3,Convenience Check Amount
-3006,3220,16,Purchases
-1001,2228,1,Purchases
-1006,2228,1,Purchases
-3001,2003,5,Purchases
-3006,2003,5,Purchases
-106,2224,1,Purchases
-105,3,2,Cash Advance Amount
-104,4,2,Convenience Check Amount
-101,1024,5,Purchases
-101,2225,1,Purchases
-101,2226,1,Purchases
-101,3006,5,Purchases
-101,3010,5,Purchases
-101,3084,11,Purchases
-102,3000,2,Cash Advance Amount
-106,1024,5,Purchases
-160,1024,5,Purchases
-160,2226,1,Purchases
-1001,1,1,Purchases
-1006,1,1,Purchases
-1025,1,1,Purchases
-1026,1,1,Purchases
-3001,1,1,Purchases
-3006,1,1,Purchases
-3031,1,1,Purchases
-3036,1,1,Purchases
-107,3000,2,Cash Advance Amount
-131,1,1,Cash Advance Amount
-161,3000,2,Cash Advance Amount
-239,3,2,Cash Advance Amount
-1002,1,1,Cash Advance Amount
-1003,1,1,Cash Advance Amount
-1027,1,1,Cash Advance Amount
-3002,1,1,Cash Advance Amount
-3005,1,1,Cash Advance Amount
-3008,1,1,Cash Advance Amount
-3032,1,1,Cash Advance Amount
-3035,1,1,Cash Advance Amount
-218,2229,3,Balance Transfer Amount
-218,3005,3,Balance Transfer Amount
-296,1,1,Balance Transfer Amount
-300,2229,3,Balance Transfer Amount
-300,3005,3,Balance Transfer Amount
-328,1,1,Balance Transfer Amount
-104,4100,3,Convenience Check Amount
-112,1,1,Convenience Check Amount
-227,1,1,Convenience Check Amount
-228,4,2,Convenience Check Amount
-354,1,1,Purchases
-106,1,1,Purchases
-160,1,1,Purchases
-3001,2222,5,Purchases
-3002,3000,2,Cash Advance Amount
-1003,3,2,Cash Advance Amount
-328,3004,3,Balance Transfer Amount
-3008,3000,2,Cash Advance Amount
-296,2229,3,Balance Transfer Amount
-106,2222,5,Purchases
-3005,3,2,Cash Advance Amount
-1027,3000,2,Cash Advance Amount
-101,4,2,Purchases
-101,31,3,Purchases
-1002,3000,2,Cash Advance Amount
-3001,2226,1,Purchases
-3001,3010,5,Purchases
-3006,3010,5,Purchases
-3001,3008,5,Purchases
-101,2222,5,Purchases
-1001,1024,5,Purchases
-3006,1024,5,Purchases
-3001,1024,5,Purchases
-160,3010,5,Purchases
-3006,2226,1,Purchases
-3001,3084,5,Purchases
-1001,3084,5,Purchases
-160,3084,5,Purchases
-296,3005,3,Balance Transfer Amount
-228,4100,3,Convenience Check Amount
-1006,2226,1,Purchases
-1006,3084,5,Purchases
-238,3,2,Cash Advance Amount
-1001,3008,5,Purchases
-1006,3008,5,Purchases
-3006,3008,5,Purchases
-3006,3006,5,Purchases
-218,31,3,Balance Transfer Amount
-1025,2226,1,Purchases
-3032,3000,2,Cash Advance Amount
-300,31,3,Balance Transfer Amount
-1006,2225,1,Purchases
-1001,2225,1,Purchases
-328,3005,3,Balance Transfer Amount
-296,31,3,Balance Transfer Amount
-227,4,2,Convenience Check Amount
-324,24,6,Purchases
-106,3010,5,Purchases
-3031,3008,5,Purchases
-296,3051,3,Balance Transfer Amount
-131,3000,2,Cash Advance Amount
-1001,2222,5,Purchases
-1006,2222,5,Purchases
-3006,2222,5,Purchases
-130,2226,1,Purchases
-106,3084,5,Purchases
-3002,2,2,Cash Advance Amount
-161,2,2,Cash Advance Amount
-1027,2,2,Cash Advance Amount
-1006,3006,5,Purchases
-1025,3084,5,Purchases
-1006,3010,5,Purchases
-3001,3084,11,Purchases
-1001,3084,11,Purchases
-3006,3084,11,Purchases
-106,2225,1,Purchases
-160,2225,1,Purchases
-130,2225,1,Purchases
-3031,3115,1,Purchases
-3036,3115,1,Purchases
-1028,1027,15,Cash Advance Amount
-109,1028,15,Cash Advance Amount
-3001,2015,5,Purchases
-3031,3632,16,Purchases
-3031,3633,16,Purchases
-106,3633,16,Purchases
-130,3633,16,Purchases
-1001,2015,5,Purchases
-375,1,1,Purchases
-376,1,1,Purchases
-130,2015,5,Purchases
-1006,1024,5,Purchases
-1001,3010,5,Purchases
-1001,2226,1,Purchases
-3006,3084,5,Purchases
-101,3084,5,Purchases
-109,1,1,Purchases
-1001,3006,5,Purchases
-3001,3006,5,Purchases
-112,4,2,Convenience Check Amount
-106,2226,1,Purchases
-227,1,3,Convenience Check Amount
-3035,3,2,Cash Advance Amount
-160,2222,5,Purchases
-3001,3113,1,Purchases
-1002,2,2,Cash Advance Amount
-1001,3113,1,Purchases
-300,3715,3,Balance Transfer Amount
-9502,2,2,Cash Advance Amount
-102,1027,15,Cash Advance Amount
-161,1027,15,Cash Advance Amount
-104,3159,3,Convenience Check Amount
-218,3715,3,Balance Transfer Amount
-218,3160,3,Balance Transfer Amount
-218,3260,3,Balance Transfer Amount
-104,4210,3,Convenience Check Amount
-102,3,2,Cash Advance Amount
-106,3632,16,Purchases
-130,3632,16,Purchases
-300,2004,3,Balance Transfer Amount
-300,402,1003,Balance Transfer Amount
-138,2004,5,Purchases
-223,8501,2,Cash Advance Amount
-9501,8803,16,Purchases
-138,1,1,Purchases
-5601,1,1,Purchases
-5602,2,2,Cash Advance Amount
-5606,1,1,Purchases
-101,8344,24,Purchases
-160,8349,5,Purchases
-160,2010,5,Purchases
-1001,3684,12,Purchases
-1006,2007,5,Purchases
-160,8341,23,Purchases
-1003,3682,2,Cash Advance Amount
-3008,3682,2,Cash Advance Amount
-218,2004,3,Balance Transfer Amount
-160,2004,5,Purchases
-328,31,3,Balance Transfer Amount
-300,2004,5,Purchases
-218,2222,5,Purchases
-218,2030,3,Balance Transfer Amount
-101,8337,22,Purchases
-106,3050,5,Purchases
-160,8345,5,Purchases
-101,8332,21,Purchases
-101,8338,22,Purchases
-375,4,2,Balance Transfer Amount
-376,4,2,Balance Transfer Amount
-3006,8734,5,Purchases
-101,8359,28,Purchases
-101,8377,32,Purchases
-1006,8374,5,Purchases
-160,3051,5,Purchases
-160,8339,5,Purchases
-160,8377,32,Purchases
-106,8334,5,Purchases
-106,2004,5,Purchases
-160,8734,5,Purchases
-106,8333,5,Purchases
-106,2010,5,Purchases
-3006,8332,5,Purchases
-3006,8361,5,Purchases
-218,8358,27,Balance Transfer Amount
-354,1000,1,Purchases
-228,8374,21,Balance Transfer Amount
-354,20,6,Purchases
-101,8335,22,Balance Transfer Amount
-1006,8332,5,Purchases
-106,8338,22,Purchases
-176,21,4,Convenience Check Amount
-101,2009,5,Purchases
-160,2009,5,Purchases
-218,2003,5,Purchases
-130,2003,5,Purchases
-130,1,1,Purchases
-110,2,2,Cash Advance Amount
-1003,1027,15,Cash Advance Amount
-107,1028,15,Cash Advance Amount
-101,2009,1,Purchases
-131,1028,15,Cash Advance Amount
-130,3115,1,Purchases
-101,2004,1,Purchases
-101,2007,1,Purchases
-1001,3632,16,Purchases
-1006,3632,16,Purchases
-3006,3632,16,Purchases
-1006,3633,16,Purchases
-3006,3633,16,Purchases
-3008,2,2,Cash Advance Amount
-3006,2015,5,Purchases
-293,2,2,Cash Advance Amount
-378,2,2,Cash Advance Amount
-238,1028,15,Cash Advance Amount
-1001,2010,5,Purchases
-1006,2010,5,Purchases
-101,3114,5,Purchases
-3036,2226,1,Purchases
-102,1025,15,Cash Advance Amount
-1028,1026,15,Cash Advance Amount
-239,1026,15,Cash Advance Amount
-1026,2003,5,Purchases
-160,2007,5,Purchases
-3001,8803,16,Purchases
-3006,8802,16,Purchases
-1001,8802,16,Purchases
-101,8803,16,Purchases
-3001,8802,16,Purchases
-3006,8803,16,Purchases
-1006,8802,16,Purchases
-1001,8803,16,Purchases
-101,8802,16,Purchases
-1006,8803,16,Purchases
-160,8802,16,Purchases
-3031,8802,16,Purchases
-106,8803,16,Purchases
-130,8803,16,Purchases
-106,8802,16,Purchases
-130,8802,16,Purchases
-3031,8803,16,Purchases
-1025,8802,16,Purchases
-228,8747,14,Convenience Check Amount
-228,8761,14,Convenience Check Amount
-218,2004,5,Purchases
-228,8731,14,Convenience Check Amount
-228,8753,14,Convenience Check Amount
-228,4210,3,Convenience Check Amount
-228,8733,14,Convenience Check Amount
-101,3050,4,Purchases
-106,2005,5,Purchases
-228,8346,3,Convenience Check Amount
-228,8334,3,Convenience Check Amount
-101,8333,21,Purchases
-102,8353,26,Cash Advance Amount
-102,1028,15,Cash Advance Amount
-161,1028,15,Cash Advance Amount
-101,2015,5,Purchases
-1006,2015,5,Purchases
-1001,2004,5,Purchases
-1006,2004,5,Purchases
-1001,2009,5,Purchases
-1027,1027,15,Cash Advance Amount
-1006,2009,5,Purchases
-101,2017,16,Purchases
-106,2017,16,Purchases
-130,2017,16,Purchases
-106,2016,5,Purchases
-109,2017,16,Purchases
-101,8353,26,Purchases
-130,2222,5,Purchases
-1026,2018,16,Purchases
-161,8333,21,Cash Advance Amount
-163,8807,18,Purchases
-130,2005,5,Purchases
-106,2015,5,Purchases
-132,2018,16,Purchases
-101,8373,31,Balance Transfer Amount
-3006,8350,5,Purchases
-3036,2018,16,Purchases
-3001,1,5,Purchases
-228,8334,28,Convenience Check Amount
-354,2222,5,Purchases
-188,1,1,Purchases
-102,2016,5,Cash Advance Amount
-101,2010,5,Purchases
-101,1009,4,Purchases
-102,8357,27,Cash Advance Amount
-300,8333,25,Balance Transfer Amount
-228,8362,28,Convenience Check Amount
-174,2,2,Cash Advance Amount
-7263,45,1,Purchases
-7240,45,1,Purchases
-7267,45,1,Purchases
-7155,2004,5,Purchases
-365,2018,16,Purchases
-376,2018,16,Purchases
-228,8807,18,Purchases
-104,8807,18,Purchases
-9501,2015,5,Purchases
-174,2018,16,Purchases
-174,4,2,Convenience Check Amount
-163,2018,16,Purchases
-228,2016,5,Purchases
-7239,45,1,Purchases
-218,2007,5,Purchases
-104,2015,5,Purchases
-218,2015,5,Purchases
-160,3693,12,Purchases
-218,8339,23,Balance Transfer Amount
-101,1000,1,Purchases
-102,2015,5,Purchases
-300,2016,5,Purchases
-160,2016,21,Purchases
-3036,2015,5,Purchases
-160,3008,5,Purchases
-101,3008,5,Purchases
-325,24,6,Purchases
-160,3006,5,Purchases
-3038,3000,2,Cash Advance Amount
-3031,3010,5,Purchases
-130,3006,5,Purchases
-3031,3006,5,Purchases
-223,5,3,Balance Transfer Amount
-102,2,2,Cash Advance Amount
-101,3113,1,Purchases
-107,2,2,Cash Advance Amount
-3001,3115,1,Purchases
-3032,2,2,Cash Advance Amount
-3006,3113,1,Purchases
-320,3005,3,Balance Transfer Amount
-106,4021,5,Purchases
-3001,4021,5,Purchases
-3031,3084,5,Purchases
-104,3130,3,Convenience Check Amount
-3001,2228,1,Purchases
-3006,2228,1,Purchases
-104,3141,3,Convenience Check Amount
-3006,4021,5,Purchases
-218,3142,3,Balance Transfer Amount
-218,3131,3,Balance Transfer Amount
-131,2,2,Cash Advance Amount
-101,4021,5,Purchases
-160,4021,5,Purchases
-300,3131,3,Balance Transfer Amount
-228,8326,28,Convenience Check Amount
-101,2005,2,Purchases
-101,2016,2,Purchases
-102,2,5,Cash Advance Amount
-104,4,3,Convenience Check Amount
-104,8333,21,Convenience Check Amount
-104,8334,21,Convenience Check Amount
-104,8350,25,Convenience Check Amount
-104,8362,28,Balance Transfer Amount
-104,8374,31,Convenience Check Amount
-105,3,5,Cash Advance Amount
-218,8333,21,Balance Transfer Amount
-218,8334,21,Convenience Check Amount
-218,8734,21,Balance Transfer Amount
-218,8349,25,Balance Transfer Amount
-219,8501,5,Cash Advance Amount
-378,2,5,Cash Advance Amount
-1003,3,5,Cash Advance Amount
-3002,2,5,Cash Advance Amount
-3005,3,5,Cash Advance Amount
-3008,2,5,Cash Advance Amount
+﻿tran_code,tran_cat_code,tran_terms_bal,Tran_Desc,Tran_Group,Rank
+228,3687,8,LOL CC,Convenience Check Amount,4
+228,3666,20,LOL CC,Convenience Check Amount,4
+228,3685,8,LOL CC,Convenience Check Amount,4
+300,3630,20,LOL BT,Balance Transfer Amount,2
+218,3698,12,Promo BT,Balance Transfer Amount,2
+160,3001,1,Purchase,Purchases,1
+218,3700,12,Promo BT,Balance Transfer Amount,2
+300,3551,14,Promo BT,Balance Transfer Amount,2
+296,3469,20,LOL BT,Balance Transfer Amount,2
+218,3565,18,Promo BT,Balance Transfer Amount,2
+228,3560,14,Convenience Check,Convenience Check Amount,4
+228,3578,18,Promo CC,Convenience Check Amount,4
+300,3579,18,Promo BT,Balance Transfer Amount,2
+105,1026,2,Cash Advance,Cash Advance Amount,3
+239,1026,2,Cash Advance,Cash Advance Amount,3
+228,3566,20,LOL CC,Convenience Check Amount,4
+1002,1027,15,Cash Advance,Cash Advance Amount,3
+300,3555,8,LOL BT,Balance Transfer Amount,2
+296,3531,10,Promo BT,Balance Transfer Amount,2
+228,3576,20,LOL CC,Convenience Check Amount,4
+105,1027,15,Cash Advance,Cash Advance Amount,3
+239,1027,15,Cash Advance,Cash Advance Amount,3
+218,3588,9,Promo BT,Balance Transfer Amount,2
+218,3590,9,Promo BT,Balance Transfer Amount,2
+218,3592,8,LOL BT,Balance Transfer Amount,2
+218,3596,8,LOL BT,Balance Transfer Amount,2
+218,3598,8,LOL BT,Balance Transfer Amount,2
+218,3600,9,Promo BT,Balance Transfer Amount,2
+104,3591,8,LOL CC,Convenience Check Amount,4
+104,3599,9,Promo CC,Convenience Check Amount,4
+104,3601,9,Promo CC,Convenience Check Amount,4
+160,3220,16,Purchase,Purchases,1
+300,3195,8,LOL BT,Balance Transfer Amount,2
+300,3228,4,Promo BT,Balance Transfer Amount,2
+300,3197,8,LOL BT,Balance Transfer Amount,2
+3006,3115,1,Purchase,Purchases,1
+101,3115,1,Purchase,Purchases,1
+160,2003,5,Purchase,Purchases,1
+218,3234,10,Promo BT,Balance Transfer Amount,2
+218,3236,10,Promo BT,Balance Transfer Amount,2
+218,3238,10,Promo BT,Balance Transfer Amount,2
+218,3240,10,Promo BT,Balance Transfer Amount,2
+218,3244,3,Balance Transfer,Balance Transfer Amount,2
+228,3012,14,Convenience Check,Convenience Check Amount,4
+228,3223,4,Promo CC,Convenience Check Amount,4
+228,3227,4,Promo CC,Convenience Check Amount,4
+300,3176,9,Promo BT,Balance Transfer Amount,2
+300,3224,4,Promo BT,Balance Transfer Amount,2
+300,3232,4,Promo BT,Balance Transfer Amount,2
+3036,2228,1,Purchase,Purchases,1
+218,3242,10,Promo BT,Balance Transfer Amount,2
+104,3233,10,Promo CC,Convenience Check Amount,4
+104,3235,10,Promo CC,Convenience Check Amount,4
+104,3237,10,Promo CC,Convenience Check Amount,4
+104,3239,10,Promo CC,Convenience Check Amount,4
+104,3241,10,Promo CC,Convenience Check Amount,4
+104,3243,3,Convenience Check,Convenience Check Amount,4
+101,2003,5,Purchase,Purchases,1
+228,3241,10,Promo CC,Convenience Check Amount,4
+239,1020,15,Cash Advance,Cash Advance Amount,3
+300,3234,10,Promo BT,Balance Transfer Amount,2
+300,3242,10,Promo BT,Balance Transfer Amount,2
+354,2228,1,Purchase,Purchases,1
+354,2,2,Purchase,Purchases,1
+354,4021,5,Purchase,Purchases,1
+1025,2228,1,Purchase,Purchases,1
+3031,2003,5,Purchase,Purchases,1
+3036,2003,5,Purchase,Purchases,1
+104,3246,11,Promo CC,Convenience Check Amount,4
+218,3247,11,Promo BT,Balance Transfer Amount,2
+104,3248,11,Promo CC,Convenience Check Amount,4
+218,3249,11,Promo BT,Balance Transfer Amount,2
+104,3250,11,Promo CC,Convenience Check Amount,4
+218,3251,11,Promo BT,Balance Transfer Amount,2
+104,3252,11,Promo CC,Convenience Check Amount,4
+218,3253,11,Promo BT,Balance Transfer Amount,2
+300,3253,11,Promo BT,Balance Transfer Amount,2
+104,3254,3,Convenience Check,Convenience Check Amount,4
+218,3255,3,Balance Transfer,Balance Transfer Amount,2
+228,3233,10,Promo CC,Convenience Check Amount,4
+300,3238,10,Promo BT,Balance Transfer Amount,2
+300,3240,10,Promo BT,Balance Transfer Amount,2
+228,3239,10,Promo CC,Convenience Check Amount,4
+300,3236,10,Promo BT,Balance Transfer Amount,2
+1026,2228,1,Purchase,Purchases,1
+104,3245,3,Convenience Check,Convenience Check Amount,4
+300,3247,11,Promo BT,Balance Transfer Amount,2
+228,3252,11,Promo CC,Convenience Check Amount,4
+1002,1021,15,Cash Advance,Cash Advance Amount,3
+3031,3220,16,Purchase,Purchases,1
+109,2003,5,Purchase,Purchases,1
+1002,1024,15,Cash Advance,Cash Advance Amount,3
+104,3271,17,Promo CC,Convenience Check Amount,4
+104,3263,17,Promo CC,Convenience Check Amount,4
+104,3267,17,Promo CC,Convenience Check Amount,4
+104,3273,17,Promo CC,Convenience Check Amount,4
+104,3256,17,Promo CC,Convenience Check Amount,4
+104,3258,17,Promo CC,Convenience Check Amount,4
+104,3265,17,Promo CC,Convenience Check Amount,4
+105,3269,17,Cash Advance,Cash Advance Amount,3
+218,3266,17,Promo BT,Balance Transfer Amount,2
+218,3264,17,Promo BT,Balance Transfer Amount,2
+218,3268,17,Promo BT,Balance Transfer Amount,2
+218,3259,17,Promo BT,Balance Transfer Amount,2
+300,3255,3,Balance Transfer,Balance Transfer Amount,2
+300,3251,11,Promo BT,Balance Transfer Amount,2
+104,3269,17,Promo CC,Convenience Check Amount,4
+300,3264,17,Promo BT,Balance Transfer Amount,2
+300,3270,17,Promo BT,Balance Transfer Amount,2
+300,3309,8,LOL BT,Balance Transfer Amount,2
+104,3261,17,Promo CC,Convenience Check Amount,4
+104,3275,17,Promo CC,Convenience Check Amount,4
+218,3262,17,Promo BT,Balance Transfer Amount,2
+218,3276,17,Promo BT,Balance Transfer Amount,2
+218,3278,18,Promo BT,Balance Transfer Amount,2
+218,3280,18,Promo BT,Balance Transfer Amount,2
+218,3282,18,Promo BT,Balance Transfer Amount,2
+218,3284,18,Promo BT,Balance Transfer Amount,2
+218,3288,8,LOL BT,Balance Transfer Amount,2
+300,3274,17,Promo BT,Balance Transfer Amount,2
+300,3276,17,Promo BT,Balance Transfer Amount,2
+104,3279,18,Promo CC,Convenience Check Amount,4
+104,3287,8,LOL CC,Convenience Check Amount,4
+104,3285,8,LOL CC,Convenience Check Amount,4
+104,3290,12,Promo CC,Convenience Check Amount,4
+104,3293,12,Promo CC,Convenience Check Amount,4
+300,3259,17,Promo BT,Balance Transfer Amount,2
+228,3267,17,Promo CC,Convenience Check Amount,4
+300,3266,17,Promo BT,Balance Transfer Amount,2
+228,3281,18,Promo CC,Convenience Check Amount,4
+227,3263,17,Promo CC,Convenience Check Amount,4
+228,3256,17,Promo CC,Convenience Check Amount,4
+300,2003,3,Balance Transfer,Balance Transfer Amount,2
+300,3268,17,Promo BT,Balance Transfer Amount,2
+300,3257,17,Promo BT,Balance Transfer Amount,2
+228,3265,17,Promo CC,Convenience Check Amount,4
+300,3278,18,Promo BT,Balance Transfer Amount,2
+300,3284,18,Promo BT,Balance Transfer Amount,2
+300,3288,8,LOL BT,Balance Transfer Amount,2
+300,3282,18,Promo BT,Balance Transfer Amount,2
+3001,2004,5,Purchase,Purchases,1
+219,5,3,Convenience Check,Convenience Check Amount,4
+228,3245,3,Convenience Check,Convenience Check Amount,4
+3006,2006,5,Purchase,Purchases,1
+218,3297,9,Promo BT,Balance Transfer Amount,2
+218,3299,9,Promo BT,Balance Transfer Amount,2
+218,3307,8,LOL BT,Balance Transfer Amount,2
+218,3303,8,LOL BT,Balance Transfer Amount,2
+218,3313,9,Promo BT,Balance Transfer Amount,2
+101,2004,5,Purchase,Purchases,1
+218,3295,9,Promo BT,Balance Transfer Amount,2
+104,3308,8,LOL CC,Convenience Check Amount,4
+218,3311,9,Promo BT,Balance Transfer Amount,2
+218,3315,9,Promo BT,Balance Transfer Amount,2
+104,3296,9,Promo CC,Convenience Check Amount,4
+104,3298,9,Promo CC,Convenience Check Amount,4
+104,3302,8,LOL CC,Convenience Check Amount,4
+104,3306,8,LOL CC,Convenience Check Amount,4
+104,3312,9,Promo CC,Convenience Check Amount,4
+104,3314,9,Promo CC,Convenience Check Amount,4
+104,3319,9,Promo CC,Convenience Check Amount,4
+228,3285,8,LOL CC,Convenience Check Amount,4
+300,3295,9,Promo BT,Balance Transfer Amount,2
+354,3,2,Purchase,Purchases,1
+354,2226,1,Purchase,Purchases,1
+300,3303,8,LOL BT,Balance Transfer Amount,2
+228,3294,9,Promo CC,Convenience Check Amount,4
+228,3302,8,LOL CC,Convenience Check Amount,4
+3001,2014,1,Purchase,Purchases,1
+104,3334,8,LOL CC,Convenience Check Amount,4
+300,3571,20,LOL BT,Balance Transfer Amount,2
+218,3321,19,Promo BT,Balance Transfer Amount,2
+218,3327,19,Promo BT,Balance Transfer Amount,2
+218,3329,19,Promo BT,Balance Transfer Amount,2
+218,3331,19,Promo BT,Balance Transfer Amount,2
+218,3333,19,Promo BT,Balance Transfer Amount,2
+218,3335,8,LOL BT,Balance Transfer Amount,2
+218,3337,8,LOL BT,Balance Transfer Amount,2
+218,3339,8,LOL BT,Balance Transfer Amount,2
+296,3266,17,Promo BT,Balance Transfer Amount,2
+218,3323,19,Promo BT,Balance Transfer Amount,2
+218,3325,19,Promo BT,Balance Transfer Amount,2
+104,3320,19,Promo CC,Convenience Check Amount,4
+104,3326,19,Promo CC,Convenience Check Amount,4
+104,3330,19,Promo CC,Convenience Check Amount,4
+104,3332,19,Promo CC,Convenience Check Amount,4
+3001,2007,5,Purchase,Purchases,1
+300,3317,9,Promo BT,Balance Transfer Amount,2
+104,3322,19,Promo CC,Convenience Check Amount,4
+104,3324,19,Promo CC,Convenience Check Amount,4
+104,3328,19,Promo CC,Convenience Check Amount,4
+104,3338,8,LOL CC,Convenience Check Amount,4
+104,3336,8,LOL CC,Convenience Check Amount,4
+3006,2007,5,Purchase,Purchases,1
+228,3269,17,Promo CC,Convenience Check Amount,4
+9501,1,1,Purchase,Purchases,1
+9503,3,2,Cash Advance,Cash Advance Amount,3
+160,3115,1,Purchase,Purchases,1
+300,3301,9,Promo BT,Balance Transfer Amount,2
+9506,1,1,Purchase,Purchases,1
+300,3339,8,LOL BT,Balance Transfer Amount,2
+9521,3,2,Cash Advance,Cash Advance Amount,3
+101,2007,5,Purchase,Purchases,1
+228,3322,19,Promo CC,Convenience Check Amount,4
+300,3327,19,Promo BT,Balance Transfer Amount,2
+101,400,1001,Purchase,Purchases,1
+3001,400,1001,Purchase,Purchases,1
+106,400,1001,Purchase,Purchases,1
+3006,400,1001,Purchase,Purchases,1
+101,1,1024,Purchase,Purchases,1
+106,1,1024,Purchase,Purchases,1
+101,1,1025,Purchase,Purchases,1
+106,1,1025,Purchase,Purchases,1
+1006,400,1001,Purchase,Purchases,1
+1001,550,1001,Purchase,Purchases,1
+3008,454,1005,Cash Advance,Cash Advance Amount,3
+3005,454,1005,Cash Advance,Cash Advance Amount,3
+3001,550,1001,Purchase,Purchases,1
+1003,454,1005,Cash Advance,Cash Advance Amount,3
+3006,550,1001,Purchase,Purchases,1
+102,8345,24,Cash Advance,Cash Advance Amount,3
+160,550,1001,Purchase,Purchases,1
+101,550,1001,Purchase,Purchases,1
+130,2016,5,Purchase,Purchases,1
+218,2016,5,Purchase,Purchases,1
+104,8338,22,Promo CC,Convenience Check Amount,4
+104,8332,21,Promo CC,Convenience Check Amount,4
+104,2004,5,Purchase,Purchases,1
+104,8370,30,Promo CC,Convenience Check Amount,4
+218,8369,30,Promo BT,Balance Transfer Amount,2
+219,8501,2,Cash Advance,Cash Advance Amount,3
+228,452,1003,Promo CC,Convenience Check Amount,4
+296,8333,21,Promo BT,Balance Transfer Amount,2
+228,8333,21,Promo BT,Balance Transfer Amount,2
+146,8334,21,Promo CC,Convenience Check Amount,4
+146,8350,25,Promo CC,Convenience Check Amount,4
+303,452,1003,Balance Transfer,Balance Transfer Amount,2
+492,400,1001,Purchase,Purchases,1
+228,8378,32,Promo CC,Convenience Check Amount,4
+299,402,1003,Balance Transfer,Balance Transfer Amount,2
+145,8333,21,Promo BT,Balance Transfer Amount,2
+228,8338,22,Promo CC,Convenience Check Amount,4
+101,3001,1,Purchase,Purchases,1
+138,2005,5,Purchase,Purchases,1
+218,8359,28,LOL BT,Balance Transfer Amount,2
+300,8347,25,LOL BT,Balance Transfer Amount,2
+228,8444,9,Promo CC,Convenience Check Amount,4
+218,8350,25,Promo CC,Convenience Check Amount,4
+104,8349,25,Promo CC,Convenience Check Amount,4
+101,3005,3,Purchase,Purchases,1
+1001,2017,16,Purchase,Purchases,1
+101,2016,5,Purchase,Purchases,1
+1001,2016,5,Purchase,Purchases,1
+1006,2017,16,Purchase,Purchases,1
+160,2016,5,Purchase,Purchases,1
+1006,2016,5,Purchase,Purchases,1
+160,2017,16,Purchase,Purchases,1
+1026,8802,16,Purchase,Purchases,1
+104,8341,23,Promo BT,Balance Transfer Amount,2
+228,8342,3,Convenience Check,Convenience Check Amount,4
+138,8333,21,Promo BT,Balance Transfer Amount,2
+300,8335,22,LOL BT,Balance Transfer Amount,2
+228,8342,23,Promo CC,Convenience Check Amount,4
+300,2005,5,Purchase,Purchases,1
+187,1,1,Purchase,Purchases,1
+300,8341,23,Promo BT,Balance Transfer Amount,2
+102,3030,3,Cash Advance,Cash Advance Amount,3
+101,3030,3,Purchase,Purchases,1
+104,8374,31,Promo CC,Convenience Check Amount,4
+160,400,1001,Purchase,Purchases,1
+107,1027,15,Cash Advance,Cash Advance Amount,3
+1001,400,1001,Purchase,Purchases,1
+101,1,1021,Purchase,Purchases,1
+106,1,1021,Purchase,Purchases,1
+130,400,1001,Purchase,Purchases,1
+3031,400,1001,Purchase,Purchases,1
+106,1,1029,Purchase,Purchases,1
+101,1,1026,Purchase,Purchases,1
+1025,400,1001,Purchase,Purchases,1
+106,1,1026,Purchase,Purchases,1
+101,1,1029,Purchase,Purchases,1
+106,1,1023,Purchase,Purchases,1
+239,454,1005,Cash Advance,Cash Advance Amount,3
+101,1,1023,Purchase,Purchases,1
+101,1,1002,Purchase,Purchases,1
+106,1,1002,Purchase,Purchases,1
+160,1027,15,Purchase,Purchases,1
+160,8334,5,Purchase,Purchases,1
+104,8378,32,Promo CC,Convenience Check Amount,4
+138,2016,5,Purchase,Purchases,1
+104,2016,5,Purchase,Purchases,1
+300,8337,22,Promo BT,Balance Transfer Amount,2
+218,1,1,Purchase,Purchases,1
+300,8334,21,Promo CC,Convenience Check Amount,4
+228,703,29,Promo BT,Balance Transfer Amount,2
+228,704,29,Promo BT,Balance Transfer Amount,2
+163,704,29,Promo BT,Balance Transfer Amount,2
+300,8369,30,Promo BT,Balance Transfer Amount,2
+104,2010,5,Purchase,Purchases,1
+104,2009,5,Purchase,Purchases,1
+300,3050,4,Promo BT,Balance Transfer Amount,2
+300,8366,29,Promo CC,Convenience Check Amount,4
+102,2005,5,Cash Advance,Cash Advance Amount,3
+299,404,1005,Cash Advance,Cash Advance Amount,3
+160,8333,5,Purchase,Purchases,1
+160,8346,5,Purchase,Purchases,1
+1006,8333,5,Purchase,Purchases,1
+106,1,1027,Purchase,Purchases,1
+101,1,1027,Purchase,Purchases,1
+1002,454,1005,Cash Advance,Cash Advance Amount,3
+107,671,15,Cash Advance,Cash Advance Amount,3
+1006,8334,5,Purchase,Purchases,1
+102,454,1005,Cash Advance,Cash Advance Amount,3
+101,8345,24,Purchase,Purchases,1
+1006,8345,5,Purchase,Purchases,1
+218,8361,28,Promo BT,Balance Transfer Amount,2
+325,405,1006,Purchase,Purchases,1
+300,8334,25,Promo CC,Convenience Check Amount,4
+104,8336,22,LOL CC,Convenience Check Amount,4
+9506,400,1001,Purchase,Purchases,1
+9501,400,1001,Purchase,Purchases,1
+228,8333,29,Promo BT,Balance Transfer Amount,2
+104,8356,27,LOL CC,Convenience Check Amount,4
+1026,2015,5,Purchase,Purchases,1
+1003,3,15,Cash Advance,Cash Advance Amount,3
+1002,2,15,Cash Advance,Cash Advance Amount,3
+101,8334,21,Purchase,Purchases,1
+227,8334,21,Promo CC,Convenience Check Amount,4
+300,8345,21,Promo BT,Balance Transfer Amount,2
+298,400,1001,Purchase,Purchases,1
+299,400,1001,Purchase,Purchases,1
+160,8334,21,Purchase,Purchases,1
+160,8333,21,Purchase,Purchases,1
+1001,2018,16,Purchase,Purchases,1
+3006,2018,16,Purchase,Purchases,1
+3001,2018,16,Purchase,Purchases,1
+1006,2018,16,Purchase,Purchases,1
+101,2018,16,Purchase,Purchases,1
+160,2018,16,Purchase,Purchases,1
+107,2018,15,Cash Advance,Cash Advance Amount,3
+1001,1,5,Purchase,Purchases,1
+3006,8334,16,Purchase,Purchases,1
+3006,8333,16,Purchase,Purchases,1
+101,1,5,Purchase,Purchases,1
+300,8333,3,Balance Transfer,Balance Transfer Amount,2
+9506,2018,16,Purchase,Purchases,1
+9501,2018,16,Purchase,Purchases,1
+219,8334,21,Promo BT,Balance Transfer Amount,2
+228,8344,24,LOL CC,Convenience Check Amount,4
+219,8333,21,Promo BT,Balance Transfer Amount,2
+1006,2018,5,Purchase,Purchases,1
+3001,1,16,Purchase,Purchases,1
+1006,8334,16,Purchase,Purchases,1
+101,1,16,Purchase,Purchases,1
+1006,8349,16,Purchase,Purchases,1
+1006,8349,5,Purchase,Purchases,1
+106,2018,16,Purchase,Purchases,1
+1001,1,16,Purchase,Purchases,1
+1006,8366,5,Purchase,Purchases,1
+130,2018,16,Purchase,Purchases,1
+3031,2018,16,Purchase,Purchases,1
+375,2018,16,Purchase,Purchases,1
+1025,2018,16,Purchase,Purchases,1
+160,3050,4,Purchase,Purchases,1
+102,8334,21,Cash Advance,Cash Advance Amount,3
+3006,8334,5,Purchase,Purchases,1
+160,2005,4,Purchase,Purchases,1
+101,3051,4,Purchase,Purchases,1
+102,8349,25,Cash Advance,Cash Advance Amount,3
+228,2016,21,Promo BT,Balance Transfer Amount,2
+219,2016,5,Purchase,Purchases,1
+227,8745,20,LOL CC,Convenience Check Amount,4
+296,8772,8,LOL BT,Balance Transfer Amount,2
+296,3650,8,LOL BT,Balance Transfer Amount,2
+227,8755,20,LOL CC,Convenience Check Amount,4
+227,8741,20,LOL CC,Convenience Check Amount,4
+227,3591,8,LOL CC,Convenience Check Amount,4
+227,8773,8,LOL CC,Convenience Check Amount,4
+296,8401,20,LOL BT,Balance Transfer Amount,2
+227,8428,8,LOL CC,Convenience Check Amount,4
+296,8707,8,LOL BT,Balance Transfer Amount,2
+227,8432,8,LOL CC,Convenience Check Amount,4
+227,3640,20,LOL CC,Convenience Check Amount,4
+296,8385,20,LOL BT,Balance Transfer Amount,2
+227,8706,8,LOL CC,Convenience Check Amount,4
+227,8708,8,LOL CC,Convenience Check Amount,4
+227,8722,8,LOL CC,Convenience Check Amount,4
+296,3730,20,LOL BT,Balance Transfer Amount,2
+296,3688,8,LOL BT,Balance Transfer Amount,2
+296,8740,20,LOL BT,Balance Transfer Amount,2
+227,8390,20,LOL CC,Convenience Check Amount,4
+227,8388,20,LOL CC,Convenience Check Amount,4
+227,8739,20,LOL CC,Convenience Check Amount,4
+227,3653,8,LOL CC,Convenience Check Amount,4
+296,3686,8,LOL BT,Balance Transfer Amount,2
+227,3666,20,LOL CC,Convenience Check Amount,4
+296,8391,20,LOL BT,Balance Transfer Amount,2
+227,3691,8,LOL CC,Convenience Check Amount,4
+227,3720,20,LOL CC,Convenience Check Amount,4
+296,3721,20,LOL BT,Balance Transfer Amount,2
+296,8419,8,LOL BT,Balance Transfer Amount,2
+227,3687,8,LOL CC,Convenience Check Amount,4
+227,3664,20,LOL CC,Convenience Check Amount,4
+228,2005,24,Promo BT,Balance Transfer Amount,2
+104,8335,22,Promo BT,Balance Transfer Amount,2
+228,8350,24,Promo CC,Convenience Check Amount,4
+219,2005,5,Purchase,Purchases,1
+228,2016,24,Promo BT,Balance Transfer Amount,2
+228,8333,24,Promo BT,Balance Transfer Amount,2
+105,8333,21,Promo BT,Balance Transfer Amount,2
+228,2016,25,Promo BT,Balance Transfer Amount,2
+160,8350,5,Purchase,Purchases,1
+160,3051,4,Purchase,Purchases,1
+106,2018,5,Purchase,Purchases,1
+102,8333,21,Cash Advance,Cash Advance Amount,3
+101,8350,25,Purchase,Purchases,1
+130,3001,1,Purchase,Purchases,1
+101,8349,25,Purchase,Purchases,1
+3001,2016,5,Purchase,Purchases,1
+222,8501,2,Cash Advance,Cash Advance Amount,3
+228,8334,23,Promo CC,Convenience Check Amount,4
+105,8334,21,Promo CC,Convenience Check Amount,4
+480,1,1,Purchase,Purchases,1
+813,1,1,Purchase,Purchases,1
+138,24,6,Purchase,Purchases,1
+168,24,6,Purchase,Purchases,1
+831,1,1,Purchase,Purchases,1
+370,1,1,Purchase,Purchases,1
+368,22,1,Purchase,Purchases,1
+9523,45,1,Purchase,Purchases,1
+9524,45,1,Purchase,Purchases,1
+3031,2015,5,Purchase,Purchases,1
+160,2016,1,Purchase,Purchases,1
+3006,2016,5,Purchase,Purchases,1
+102,8365,29,Cash Advance,Cash Advance Amount,3
+228,8804,13,Promo CC,Convenience Check Amount,4
+104,8804,13,Promo CC,Convenience Check Amount,4
+300,8373,31,Promo BT,Balance Transfer Amount,2
+104,8357,27,Promo BT,Balance Transfer Amount,2
+1006,8350,5,Purchase,Purchases,1
+101,8358,27,Purchase,Purchases,1
+1006,8373,5,Purchase,Purchases,1
+3006,8333,5,Purchase,Purchases,1
+101,8341,23,Purchase,Purchases,1
+101,8365,29,Purchase,Purchases,1
+101,8366,29,Purchase,Purchases,1
+101,8342,23,Purchase,Purchases,1
+101,8357,27,Purchase,Purchases,1
+101,8374,31,Purchase,Purchases,1
+102,8370,30,Cash Advance,Cash Advance Amount,3
+160,8357,27,Purchase,Purchases,1
+3006,2224,1,Purchase,Purchases,1
+228,3143,13,Promo CC,Convenience Check Amount,4
+104,3173,9,Promo CC,Convenience Check Amount,4
+104,3175,9,Promo CC,Convenience Check Amount,4
+218,3181,3,Balance Transfer,Balance Transfer Amount,2
+104,3188,9,Promo CC,Convenience Check Amount,4
+218,3193,9,Promo BT,Balance Transfer Amount,2
+104,3196,8,LOL CC,Convenience Check Amount,4
+104,3179,12,Promo CC,Convenience Check Amount,4
+104,3190,9,Promo CC,Convenience Check Amount,4
+3001,3220,16,Purchase,Purchases,1
+130,2228,1,Purchase,Purchases,1
+300,3178,9,Promo BT,Balance Transfer Amount,2
+227,3173,9,Promo CC,Convenience Check Amount,4
+300,3015,14,Promo BT,Balance Transfer Amount,2
+218,3222,4,Promo BT,Balance Transfer Amount,2
+296,3465,12,Promo BT,Balance Transfer Amount,2
+160,8803,16,Purchase,Purchases,1
+1025,8803,16,Purchase,Purchases,1
+3036,8803,16,Purchase,Purchases,1
+101,3415,16,Purchase,Purchases,1
+228,8781,4,Promo CC,Convenience Check Amount,4
+3036,8802,16,Purchase,Purchases,1
+1001,2005,5,Purchase,Purchases,1
+1006,2005,5,Purchase,Purchases,1
+1025,2015,5,Purchase,Purchases,1
+101,2005,5,Purchase,Purchases,1
+160,2005,5,Purchase,Purchases,1
+300,8788,4,Promo BT,Balance Transfer Amount,2
+300,8734,14,Promo BT,Balance Transfer Amount,2
+218,8405,20,LOL BT,Balance Transfer Amount,2
+218,8407,20,LOL BT,Balance Transfer Amount,2
+218,8387,20,LOL BT,Balance Transfer Amount,2
+300,8405,20,LOL BT,Balance Transfer Amount,2
+218,8383,20,LOL BT,Balance Transfer Amount,2
+227,8793,8,LOL CC,Convenience Check Amount,4
+218,8385,20,LOL BT,Balance Transfer Amount,2
+228,8785,4,Promo CC,Convenience Check Amount,4
+218,8391,20,LOL BT,Balance Transfer Amount,2
+218,8401,20,LOL BT,Balance Transfer Amount,2
+218,8389,20,LOL BT,Balance Transfer Amount,2
+296,8784,8,LOL BT,Balance Transfer Amount,2
+296,8701,10,Promo BT,Balance Transfer Amount,2
+104,8392,20,LOL CC,Convenience Check Amount,4
+104,8408,20,LOL CC,Convenience Check Amount,4
+104,8388,20,LOL CC,Convenience Check Amount,4
+104,8390,20,LOL CC,Convenience Check Amount,4
+104,8398,18,Promo CC,Convenience Check Amount,4
+104,8422,20,LOL CC,Convenience Check Amount,4
+104,8386,20,LOL CC,Convenience Check Amount,4
+104,8394,20,LOL CC,Convenience Check Amount,4
+300,8387,20,LOL BT,Balance Transfer Amount,2
+104,8396,20,LOL CC,Convenience Check Amount,4
+228,8390,20,LOL CC,Convenience Check Amount,4
+300,8389,20,LOL BT,Balance Transfer Amount,2
+300,8385,20,LOL BT,Balance Transfer Amount,2
+228,8396,20,LOL CC,Convenience Check Amount,4
+228,8392,20,LOL CC,Convenience Check Amount,4
+228,8769,4,Promo CC,Convenience Check Amount,4
+104,8412,20,LOL CC,Convenience Check Amount,4
+104,3009,4,Promo CC,Convenience Check Amount,4
+104,8426,8,LOL CC,Convenience Check Amount,4
+104,8424,8,LOL CC,Convenience Check Amount,4
+228,8777,8,LOL CC,Convenience Check Amount,4
+218,8427,8,LOL BT,Balance Transfer Amount,2
+218,8431,9,Promo BT,Balance Transfer Amount,2
+218,8419,8,LOL BT,Balance Transfer Amount,2
+218,8423,8,LOL BT,Balance Transfer Amount,2
+218,8429,9,Promo BT,Balance Transfer Amount,2
+218,2005,5,Purchase,Purchases,1
+218,8425,9,Promo BT,Balance Transfer Amount,2
+218,8439,9,Promo BT,Balance Transfer Amount,2
+218,8435,9,Promo BT,Balance Transfer Amount,2
+218,8437,9,Promo BT,Balance Transfer Amount,2
+104,8434,9,Promo CC,Convenience Check Amount,4
+104,8440,9,Promo CC,Convenience Check Amount,4
+104,8448,9,Promo CC,Convenience Check Amount,4
+104,8432,8,LOL CC,Convenience Check Amount,4
+104,8428,8,LOL CC,Convenience Check Amount,4
+104,8438,9,Promo CC,Convenience Check Amount,4
+104,8436,9,Promo CC,Convenience Check Amount,4
+375,22,1,Purchase,Purchases,1
+104,8446,9,Promo CC,Convenience Check Amount,4
+104,8444,9,Promo CC,Convenience Check Amount,4
+376,22,1,Purchase,Purchases,1
+218,8417,8,LOL BT,Balance Transfer Amount,2
+300,8439,9,Promo BT,Balance Transfer Amount,2
+218,8421,8,LOL BT,Balance Transfer Amount,2
+300,8431,9,Promo BT,Balance Transfer Amount,2
+228,8428,8,LOL CC,Convenience Check Amount,4
+228,8432,8,LOL CC,Convenience Check Amount,4
+228,8446,9,Promo CC,Convenience Check Amount,4
+104,8430,8,LOL CC,Convenience Check Amount,4
+300,8419,8,LOL BT,Balance Transfer Amount,2
+300,8423,8,LOL BT,Balance Transfer Amount,2
+218,8780,8,LOL BT,Balance Transfer Amount,2
+228,8426,8,LOL CC,Convenience Check Amount,4
+300,8427,8,LOL BT,Balance Transfer Amount,2
+227,8771,8,LOL CC,Convenience Check Amount,4
+228,8434,9,Promo CC,Convenience Check Amount,4
+228,8438,9,Promo CC,Convenience Check Amount,4
+296,8778,4,Promo BT,Balance Transfer Amount,2
+228,8350,3,Convenience Check,Convenience Check Amount,4
+228,8737,14,Convenience Check,Convenience Check Amount,4
+228,8388,20,LOL CC,Convenience Check Amount,4
+296,8383,20,LOL BT,Balance Transfer Amount,2
+300,8401,20,LOL BT,Balance Transfer Amount,2
+300,8393,18,Promo BT,Balance Transfer Amount,2
+300,3724,20,LOL BT,Balance Transfer Amount,2
+218,8397,20,LOL BT,Balance Transfer Amount,2
+228,8386,20,LOL CC,Convenience Check Amount,4
+227,8702,10,Promo CC,Convenience Check Amount,4
+300,8425,9,Promo BT,Balance Transfer Amount,2
+218,3529,20,LOL BT,Balance Transfer Amount,2
+218,8393,18,Promo BT,Balance Transfer Amount,2
+228,8354,3,Convenience Check,Convenience Check Amount,4
+228,8422,20,LOL CC,Convenience Check Amount,4
+228,8440,9,Promo CC,Convenience Check Amount,4
+228,8358,3,Convenience Check,Convenience Check Amount,4
+300,8429,9,Promo BT,Balance Transfer Amount,2
+296,8730,14,Promo BT,Balance Transfer Amount,2
+296,8746,14,Promo BT,Balance Transfer Amount,2
+104,2003,5,Purchase,Purchases,1
+104,2005,5,Purchase,Purchases,1
+218,8347,25,LOL BT,Balance Transfer Amount,2
+104,8347,25,LOL CC,Convenience Check Amount,4
+104,8364,29,LOL CC,Convenience Check Amount,4
+104,8352,26,LOL CC,Convenience Check Amount,4
+218,8333,21,Promo BT,Balance Transfer Amount,2
+218,8331,21,LOL BT,Balance Transfer Amount,2
+104,8348,25,LOL CC,Convenience Check Amount,4
+104,8344,24,LOL CC,Convenience Check Amount,4
+104,8350,25,Promo CC,Convenience Check Amount,4
+218,8363,29,LOL BT,Balance Transfer Amount,2
+300,8333,21,Promo BT,Balance Transfer Amount,2
+228,8350,25,Promo CC,Convenience Check Amount,4
+104,8334,21,Promo CC,Convenience Check Amount,4
+218,8365,29,Promo BT,Balance Transfer Amount,2
+104,3134,3,Convenience Check,Convenience Check Amount,4
+228,3050,3,Convenience Check,Convenience Check Amount,4
+104,3448,19,Promo CC,Convenience Check Amount,4
+300,8701,10,Promo BT,Balance Transfer Amount,2
+300,3700,12,Promo BT,Balance Transfer Amount,2
+300,3672,20,LOL BT,Balance Transfer Amount,2
+218,3717,13,Promo BT,Balance Transfer Amount,2
+218,3721,20,LOL BT,Balance Transfer Amount,2
+218,3725,13,Promo BT,Balance Transfer Amount,2
+218,3728,13,Promo BT,Balance Transfer Amount,2
+218,3729,13,Promo BT,Balance Transfer Amount,2
+218,3734,13,Promo BT,Balance Transfer Amount,2
+218,3736,20,LOL BT,Balance Transfer Amount,2
+218,3719,13,Promo BT,Balance Transfer Amount,2
+104,3720,20,LOL CC,Convenience Check Amount,4
+228,3639,4,Promo CC,Convenience Check Amount,4
+300,3729,13,Promo BT,Balance Transfer Amount,2
+228,3733,20,LOL CC,Convenience Check Amount,4
+300,8707,8,LOL BT,Balance Transfer Amount,2
+300,8713,10,Promo BT,Balance Transfer Amount,2
+104,8708,8,LOL CC,Convenience Check Amount,4
+104,8712,10,Promo CC,Convenience Check Amount,4
+228,8717,10,Promo CC,Convenience Check Amount,4
+300,8710,8,LOL BT,Balance Transfer Amount,2
+228,8702,10,Promo CC,Convenience Check Amount,4
+300,8719,10,Promo BT,Balance Transfer Amount,2
+228,8722,8,LOL CC,Convenience Check Amount,4
+228,3726,13,Promo CC,Convenience Check Amount,4
+300,8724,8,LOL BT,Balance Transfer Amount,2
+218,3345,10,Promo BT,Balance Transfer Amount,2
+218,3347,10,Promo BT,Balance Transfer Amount,2
+218,3351,10,Promo BT,Balance Transfer Amount,2
+218,3353,8,LOL BT,Balance Transfer Amount,2
+218,3355,8,LOL BT,Balance Transfer Amount,2
+218,3357,8,LOL BT,Balance Transfer Amount,2
+218,3360,10,Promo BT,Balance Transfer Amount,2
+218,3349,10,Promo BT,Balance Transfer Amount,2
+104,3359,10,Promo CC,Convenience Check Amount,4
+300,3337,8,LOL BT,Balance Transfer Amount,2
+104,3340,10,Promo CC,Convenience Check Amount,4
+104,3342,10,Promo CC,Convenience Check Amount,4
+104,3344,10,Promo CC,Convenience Check Amount,4
+104,3346,10,Promo CC,Convenience Check Amount,4
+104,3350,10,Promo CC,Convenience Check Amount,4
+104,3352,8,LOL CC,Convenience Check Amount,4
+104,3356,8,LOL CC,Convenience Check Amount,4
+104,3348,10,Promo CC,Convenience Check Amount,4
+354,3001,1,Purchase,Purchases,1
+1006,3358,10,Purchase,Purchases,1
+3001,3358,10,Purchase,Purchases,1
+160,3358,10,Purchase,Purchases,1
+300,3341,10,Promo BT,Balance Transfer Amount,2
+300,3355,8,LOL BT,Balance Transfer Amount,2
+101,3358,10,Purchase,Purchases,1
+1025,3358,10,Purchase,Purchases,1
+300,3333,19,Promo BT,Balance Transfer Amount,2
+3036,3358,10,Purchase,Purchases,1
+3031,3358,10,Purchase,Purchases,1
+300,3357,8,LOL BT,Balance Transfer Amount,2
+228,3340,10,Promo CC,Convenience Check Amount,4
+300,3343,10,Promo BT,Balance Transfer Amount,2
+300,3345,10,Promo BT,Balance Transfer Amount,2
+1001,3358,16,Purchase,Purchases,1
+1006,3358,16,Purchase,Purchases,1
+1025,3358,16,Purchase,Purchases,1
+3006,3358,16,Purchase,Purchases,1
+101,3358,16,Purchase,Purchases,1
+104,3361,10,Promo CC,Convenience Check Amount,4
+300,3360,10,Promo BT,Balance Transfer Amount,2
+228,3338,8,LOL CC,Convenience Check Amount,4
+354,3358,16,Purchase,Purchases,1
+218,3366,11,Promo BT,Balance Transfer Amount,2
+218,3370,11,Promo BT,Balance Transfer Amount,2
+218,3374,11,Promo BT,Balance Transfer Amount,2
+218,3380,8,LOL BT,Balance Transfer Amount,2
+218,3382,8,LOL BT,Balance Transfer Amount,2
+300,3351,10,Promo BT,Balance Transfer Amount,2
+228,3350,10,Promo CC,Convenience Check Amount,4
+3031,3358,16,Purchase,Purchases,1
+300,3366,11,Promo BT,Balance Transfer Amount,2
+104,3367,11,Promo CC,Convenience Check Amount,4
+104,3373,11,Promo CC,Convenience Check Amount,4
+104,3375,11,Promo CC,Convenience Check Amount,4
+104,3379,8,LOL CC,Convenience Check Amount,4
+131,1019,15,Cash Advance,Cash Advance Amount,3
+300,3370,11,Promo BT,Balance Transfer Amount,2
+227,3350,10,Promo CC,Convenience Check Amount,4
+228,3361,10,Promo CC,Convenience Check Amount,4
+300,3364,11,Promo BT,Balance Transfer Amount,2
+300,3376,11,Promo BT,Balance Transfer Amount,2
+106,3358,16,Purchase,Purchases,1
+130,3358,16,Purchase,Purchases,1
+3001,2009,5,Purchase,Purchases,1
+104,3363,11,Promo CC,Convenience Check Amount,4
+228,3367,11,Promo CC,Convenience Check Amount,4
+228,3369,11,Promo CC,Convenience Check Amount,4
+300,3384,8,LOL BT,Balance Transfer Amount,2
+300,3374,11,Promo BT,Balance Transfer Amount,2
+3006,2009,5,Purchase,Purchases,1
+300,3368,11,Promo BT,Balance Transfer Amount,2
+300,3380,8,LOL BT,Balance Transfer Amount,2
+109,2009,5,Purchase,Purchases,1
+160,2006,5,Purchase,Purchases,1
+218,3386,18,Promo BT,Balance Transfer Amount,2
+218,3390,18,Promo BT,Balance Transfer Amount,2
+218,3394,8,LOL BT,Balance Transfer Amount,2
+218,3398,8,LOL BT,Balance Transfer Amount,2
+218,3406,18,Promo BT,Balance Transfer Amount,2
+218,3402,18,Promo BT,Balance Transfer Amount,2
+104,3385,18,Promo CC,Convenience Check Amount,4
+104,3387,18,Promo CC,Convenience Check Amount,4
+104,3399,18,Promo CC,Convenience Check Amount,4
+218,3408,18,Promo BT,Balance Transfer Amount,2
+218,3414,18,Promo BT,Balance Transfer Amount,2
+104,3393,8,LOL CC,Convenience Check Amount,4
+104,3395,18,Promo CC,Convenience Check Amount,4
+104,3397,8,LOL CC,Convenience Check Amount,4
+218,3400,18,Promo BT,Balance Transfer Amount,2
+104,3403,18,Promo CC,Convenience Check Amount,4
+104,3407,18,Promo CC,Convenience Check Amount,4
+104,3413,18,Promo CC,Convenience Check Amount,4
+300,3390,18,Promo BT,Balance Transfer Amount,2
+300,3386,18,Promo BT,Balance Transfer Amount,2
+161,1019,15,Cash Advance,Cash Advance Amount,3
+300,3408,18,Promo BT,Balance Transfer Amount,2
+300,3392,8,LOL BT,Balance Transfer Amount,2
+228,3308,8,LOL CC,Convenience Check Amount,4
+228,3348,10,Promo CC,Convenience Check Amount,4
+228,3375,11,Promo CC,Convenience Check Amount,4
+300,3404,18,Promo BT,Balance Transfer Amount,2
+300,3388,18,Promo BT,Balance Transfer Amount,2
+300,3398,8,LOL BT,Balance Transfer Amount,2
+218,3563,18,Promo BT,Balance Transfer Amount,2
+104,3566,20,LOL CC,Convenience Check Amount,4
+218,3567,20,LOL BT,Balance Transfer Amount,2
+104,3568,20,LOL CC,Convenience Check Amount,4
+218,3569,20,LOL BT,Balance Transfer Amount,2
+104,3570,20,LOL CC,Convenience Check Amount,4
+218,3571,20,LOL BT,Balance Transfer Amount,2
+218,3573,20,LOL BT,Balance Transfer Amount,2
+104,3574,20,LOL CC,Convenience Check Amount,4
+218,3575,20,LOL BT,Balance Transfer Amount,2
+104,3576,20,LOL CC,Convenience Check Amount,4
+218,3577,20,LOL BT,Balance Transfer Amount,2
+104,3578,18,Promo CC,Convenience Check Amount,4
+218,3579,18,Promo BT,Balance Transfer Amount,2
+218,3581,18,Promo BT,Balance Transfer Amount,2
+104,3584,18,Promo CC,Convenience Check Amount,4
+218,3585,18,Promo BT,Balance Transfer Amount,2
+104,3586,20,LOL CC,Convenience Check Amount,4
+1002,1025,2,Cash Advance,Cash Advance Amount,3
+1003,1026,2,Cash Advance,Cash Advance Amount,3
+1028,1026,2,Cash Advance,Cash Advance Amount,3
+300,3567,20,LOL BT,Balance Transfer Amount,2
+101,1028,15,Purchase,Purchases,1
+228,3574,20,LOL CC,Convenience Check Amount,4
+218,3594,8,LOL BT,Balance Transfer Amount,2
+218,3602,9,Promo BT,Balance Transfer Amount,2
+228,3595,8,LOL CC,Convenience Check Amount,4
+300,3627,4,Promo BT,Balance Transfer Amount,2
+3001,3632,16,Purchase,Purchases,1
+1001,3633,16,Purchase,Purchases,1
+3001,3633,16,Purchase,Purchases,1
+104,3618,20,LOL CC,Convenience Check Amount,4
+101,3632,16,Purchase,Purchases,1
+160,3632,16,Purchase,Purchases,1
+300,3634,4,Promo BT,Balance Transfer Amount,2
+296,3613,20,LOL BT,Balance Transfer Amount,2
+300,3617,20,LOL BT,Balance Transfer Amount,2
+101,3633,16,Purchase,Purchases,1
+160,3633,16,Purchase,Purchases,1
+160,2015,5,Purchase,Purchases,1
+218,3630,20,LOL BT,Balance Transfer Amount,2
+1025,3633,16,Purchase,Purchases,1
+300,3644,17,Promo BT,Balance Transfer Amount,2
+228,3653,8,LOL CC,Convenience Check Amount,4
+218,3663,19,Promo BT,Balance Transfer Amount,2
+218,3665,20,LOL BT,Balance Transfer Amount,2
+218,3667,20,LOL BT,Balance Transfer Amount,2
+218,3669,20,LOL BT,Balance Transfer Amount,2
+218,3674,19,Promo BT,Balance Transfer Amount,2
+218,3676,19,Promo BT,Balance Transfer Amount,2
+218,3680,19,Promo BT,Balance Transfer Amount,2
+104,3664,20,LOL CC,Convenience Check Amount,4
+104,3679,19,Promo CC,Convenience Check Amount,4
+130,2224,1,Purchase,Purchases,1
+218,3272,17,Promo BT,Balance Transfer Amount,2
+218,3257,17,Promo BT,Balance Transfer Amount,2
+218,3270,17,Promo BT,Balance Transfer Amount,2
+218,3274,17,Promo BT,Balance Transfer Amount,2
+300,3249,11,Promo BT,Balance Transfer Amount,2
+101,3220,16,Purchase,Purchases,1
+228,3248,11,Promo CC,Convenience Check Amount,4
+1028,3,2,Cash Advance,Cash Advance Amount,3
+296,3247,11,Promo BT,Balance Transfer Amount,2
+104,3277,18,Promo CC,Convenience Check Amount,4
+104,3281,18,Promo CC,Convenience Check Amount,4
+218,3286,8,LOL BT,Balance Transfer Amount,2
+218,3289,3,Balance Transfer,Balance Transfer Amount,2
+104,3283,18,Promo CC,Convenience Check Amount,4
+104,3291,12,Promo CC,Convenience Check Amount,4
+104,3292,12,Promo CC,Convenience Check Amount,4
+160,2224,1,Purchase,Purchases,1
+228,3263,17,Promo CC,Convenience Check Amount,4
+300,3256,17,Promo BT,Balance Transfer Amount,2
+106,2003,5,Purchase,Purchases,1
+300,3280,18,Promo BT,Balance Transfer Amount,2
+228,3277,18,Promo CC,Convenience Check Amount,4
+300,3286,8,LOL BT,Balance Transfer Amount,2
+228,3287,8,LOL CC,Convenience Check Amount,4
+3006,2004,5,Purchase,Purchases,1
+3001,2223,1,Purchase,Purchases,1
+3001,2006,5,Purchase,Purchases,1
+218,3301,9,Promo BT,Balance Transfer Amount,2
+218,3317,9,Promo BT,Balance Transfer Amount,2
+218,3305,8,LOL BT,Balance Transfer Amount,2
+104,3294,9,Promo CC,Convenience Check Amount,4
+104,3310,9,Promo CC,Convenience Check Amount,4
+218,3318,3,Balance Transfer,Balance Transfer Amount,2
+104,3304,8,LOL CC,Convenience Check Amount,4
+218,3309,8,LOL BT,Balance Transfer Amount,2
+104,3316,9,Promo CC,Convenience Check Amount,4
+228,3296,9,Promo CC,Convenience Check Amount,4
+300,3297,9,Promo BT,Balance Transfer Amount,2
+300,3318,3,Balance Transfer,Balance Transfer Amount,2
+300,3299,9,Promo BT,Balance Transfer Amount,2
+104,3354,8,LOL CC,Convenience Check Amount,4
+1001,3358,10,Purchase,Purchases,1
+3006,3358,10,Purchase,Purchases,1
+227,3326,19,Promo CC,Convenience Check Amount,4
+300,3349,10,Promo BT,Balance Transfer Amount,2
+218,3362,10,Promo BT,Balance Transfer Amount,2
+3001,3358,16,Purchase,Purchases,1
+160,3358,16,Purchase,Purchases,1
+101,1,1,Purchase,Purchases,1
+300,3437,9,Promo BT,Balance Transfer Amount,2
+228,3424,9,Promo CC,Convenience Check Amount,4
+228,3430,9,Promo CC,Convenience Check Amount,4
+300,3439,9,Promo BT,Balance Transfer Amount,2
+300,3431,9,Promo BT,Balance Transfer Amount,2
+300,3419,9,Promo BT,Balance Transfer Amount,2
+296,3345,10,Promo BT,Balance Transfer Amount,2
+300,3423,8,LOL BT,Balance Transfer Amount,2
+218,3415,16,Balance Transfer,Balance Transfer Amount,2
+296,3431,9,Promo BT,Balance Transfer Amount,2
+228,3416,9,Promo CC,Convenience Check Amount,4
+300,3421,9,Promo BT,Balance Transfer Amount,2
+104,4024,17,Promo CC,Convenience Check Amount,4
+218,4025,17,Promo BT,Balance Transfer Amount,2
+218,4029,17,Promo BT,Balance Transfer Amount,2
+218,4027,17,Promo BT,Balance Transfer Amount,2
+218,4033,8,LOL BT,Balance Transfer Amount,2
+218,4037,17,Promo BT,Balance Transfer Amount,2
+218,4039,17,Promo BT,Balance Transfer Amount,2
+104,4026,17,Promo CC,Convenience Check Amount,4
+104,4028,17,Promo CC,Convenience Check Amount,4
+104,4030,8,LOL CC,Convenience Check Amount,4
+218,4031,8,LOL BT,Balance Transfer Amount,2
+104,4032,8,LOL CC,Convenience Check Amount,4
+104,4036,17,Promo CC,Convenience Check Amount,4
+104,4038,17,Promo CC,Convenience Check Amount,4
+228,3434,8,LOL CC,Convenience Check Amount,4
+227,3434,8,LOL CC,Convenience Check Amount,4
+300,4033,8,LOL BT,Balance Transfer Amount,2
+296,3386,18,Promo BT,Balance Transfer Amount,2
+300,4027,17,Promo BT,Balance Transfer Amount,2
+300,4039,17,Promo BT,Balance Transfer Amount,2
+218,3001,1,Promo BT,Balance Transfer Amount,2
+228,4038,17,Promo CC,Convenience Check Amount,4
+300,4031,8,LOL BT,Balance Transfer Amount,2
+300,4037,17,Promo BT,Balance Transfer Amount,2
+227,3385,18,Promo CC,Convenience Check Amount,4
+228,4036,17,Promo CC,Convenience Check Amount,4
+228,4024,17,Promo CC,Convenience Check Amount,4
+228,4030,8,LOL CC,Convenience Check Amount,4
+296,4025,17,Promo BT,Balance Transfer Amount,2
+218,3445,19,Promo BT,Balance Transfer Amount,2
+218,3449,19,Promo BT,Balance Transfer Amount,2
+218,3451,19,Promo BT,Balance Transfer Amount,2
+218,3457,8,LOL BT,Balance Transfer Amount,2
+218,3459,19,Promo BT,Balance Transfer Amount,2
+104,3456,8,LOL CC,Convenience Check Amount,4
+104,3444,19,Promo CC,Convenience Check Amount,4
+104,3450,19,Promo CC,Convenience Check Amount,4
+104,3462,8,LOL CC,Convenience Check Amount,4
+228,3428,8,LOL CC,Convenience Check Amount,4
+228,4028,17,Promo CC,Convenience Check Amount,4
+300,3451,19,Promo BT,Balance Transfer Amount,2
+300,3463,8,LOL BT,Balance Transfer Amount,2
+218,4035,8,LOL BT,Balance Transfer Amount,2
+300,3453,19,Promo BT,Balance Transfer Amount,2
+300,3457,8,LOL BT,Balance Transfer Amount,2
+296,3417,9,Promo BT,Balance Transfer Amount,2
+227,4100,3,Convenience Check,Convenience Check Amount,4
+228,3458,19,Promo CC,Convenience Check Amount,4
+228,3444,19,Promo CC,Convenience Check Amount,4
+218,3481,12,Promo BT,Balance Transfer Amount,2
+218,3479,12,Promo BT,Balance Transfer Amount,2
+218,3465,12,Promo BT,Balance Transfer Amount,2
+218,3477,12,Promo BT,Balance Transfer Amount,2
+218,3469,20,LOL BT,Balance Transfer Amount,2
+218,3473,12,Promo BT,Balance Transfer Amount,2
+218,3467,12,Promo BT,Balance Transfer Amount,2
+104,3480,12,Promo CC,Convenience Check Amount,4
+104,3464,12,Promo CC,Convenience Check Amount,4
+218,3471,20,LOL BT,Balance Transfer Amount,2
+296,3429,8,LOL BT,Balance Transfer Amount,2
+104,3482,12,Promo CC,Convenience Check Amount,4
+104,3474,12,Promo CC,Convenience Check Amount,4
+104,3478,12,Promo CC,Convenience Check Amount,4
+104,3484,12,Promo CC,Convenience Check Amount,4
+104,3470,20,LOL CC,Convenience Check Amount,4
+300,3469,20,LOL BT,Balance Transfer Amount,2
+300,3483,12,Promo BT,Balance Transfer Amount,2
+300,3485,12,Promo BT,Balance Transfer Amount,2
+300,3481,12,Promo BT,Balance Transfer Amount,2
+300,3473,12,Promo BT,Balance Transfer Amount,2
+300,3479,12,Promo BT,Balance Transfer Amount,2
+101,2003,1,Purchase,Purchases,1
+228,3464,12,Promo CC,Convenience Check Amount,4
+1003,1026,15,Cash Advance,Cash Advance Amount,3
+1002,1025,15,Cash Advance,Cash Advance Amount,3
+105,1026,15,Cash Advance,Cash Advance Amount,3
+300,3475,12,Promo BT,Balance Transfer Amount,2
+228,3466,12,Promo CC,Convenience Check Amount,4
+218,3491,8,LOL BT,Balance Transfer Amount,2
+218,3493,8,LOL BT,Balance Transfer Amount,2
+218,3511,13,Promo BT,Balance Transfer Amount,2
+218,3515,13,Promo BT,Balance Transfer Amount,2
+218,3487,13,Promo BT,Balance Transfer Amount,2
+218,3489,13,Promo BT,Balance Transfer Amount,2
+218,3517,13,Promo BT,Balance Transfer Amount,2
+1001,2003,5,Purchase,Purchases,1
+300,3491,8,LOL BT,Balance Transfer Amount,2
+218,3497,13,Promo BT,Balance Transfer Amount,2
+104,3488,13,Promo CC,Convenience Check Amount,4
+104,3494,13,Promo CC,Convenience Check Amount,4
+218,3501,8,LOL BT,Balance Transfer Amount,2
+104,3516,13,Promo CC,Convenience Check Amount,4
+1006,2003,5,Purchase,Purchases,1
+104,3490,8,LOL CC,Convenience Check Amount,4
+104,3496,13,Promo CC,Convenience Check Amount,4
+218,3499,8,LOL BT,Balance Transfer Amount,2
+104,3510,13,Promo CC,Convenience Check Amount,4
+104,3486,13,Promo CC,Convenience Check Amount,4
+104,3500,8,LOL CC,Convenience Check Amount,4
+104,3502,13,Promo CC,Convenience Check Amount,4
+104,3492,8,LOL CC,Convenience Check Amount,4
+104,3498,8,LOL CC,Convenience Check Amount,4
+218,3503,13,Promo BT,Balance Transfer Amount,2
+104,3514,13,Promo CC,Convenience Check Amount,4
+228,3474,12,Promo CC,Convenience Check Amount,4
+228,3510,13,Promo CC,Convenience Check Amount,4
+300,3495,13,Promo BT,Balance Transfer Amount,2
+300,3511,13,Promo BT,Balance Transfer Amount,2
+218,2003,3,Balance Transfer,Balance Transfer Amount,2
+300,3493,8,LOL BT,Balance Transfer Amount,2
+300,3517,13,Promo BT,Balance Transfer Amount,2
+228,3476,12,Promo CC,Convenience Check Amount,4
+228,3490,8,LOL CC,Convenience Check Amount,4
+228,3496,13,Promo CC,Convenience Check Amount,4
+300,3487,13,Promo BT,Balance Transfer Amount,2
+228,3482,12,Promo CC,Convenience Check Amount,4
+228,3484,12,Promo CC,Convenience Check Amount,4
+300,3499,8,LOL BT,Balance Transfer Amount,2
+300,3515,13,Promo BT,Balance Transfer Amount,2
+228,3486,13,Promo CC,Convenience Check Amount,4
+228,3494,13,Promo CC,Convenience Check Amount,4
+228,3468,20,LOL CC,Convenience Check Amount,4
+300,3497,13,Promo BT,Balance Transfer Amount,2
+218,3521,10,Promo BT,Balance Transfer Amount,2
+218,3523,10,Promo BT,Balance Transfer Amount,2
+218,3525,20,LOL BT,Balance Transfer Amount,2
+218,3527,20,LOL BT,Balance Transfer Amount,2
+218,3531,10,Promo BT,Balance Transfer Amount,2
+218,3533,10,Promo BT,Balance Transfer Amount,2
+218,3535,10,Promo BT,Balance Transfer Amount,2
+218,3537,20,LOL BT,Balance Transfer Amount,2
+228,3462,8,LOL CC,Convenience Check Amount,4
+104,3524,20,LOL CC,Convenience Check Amount,4
+104,3530,10,Promo CC,Convenience Check Amount,4
+104,3534,10,Promo CC,Convenience Check Amount,4
+300,3501,8,LOL BT,Balance Transfer Amount,2
+104,3520,10,Promo CC,Convenience Check Amount,4
+104,3522,10,Promo CC,Convenience Check Amount,4
+104,3526,20,LOL CC,Convenience Check Amount,4
+104,3532,10,Promo CC,Convenience Check Amount,4
+104,3536,20,LOL CC,Convenience Check Amount,4
+104,3541,20,LOL CC,Convenience Check Amount,4
+104,3540,10,Promo CC,Convenience Check Amount,4
+218,3148,13,Promo BT,Balance Transfer Amount,2
+218,3455,8,LOL BT,Balance Transfer Amount,2
+228,3524,20,LOL CC,Convenience Check Amount,4
+228,3500,8,LOL CC,Convenience Check Amount,4
+300,3489,13,Promo BT,Balance Transfer Amount,2
+300,3523,10,Promo BT,Balance Transfer Amount,2
+300,3527,20,LOL BT,Balance Transfer Amount,2
+300,3521,10,Promo BT,Balance Transfer Amount,2
+300,3525,20,LOL BT,Balance Transfer Amount,2
+228,3498,8,LOL CC,Convenience Check Amount,4
+300,3533,10,Promo BT,Balance Transfer Amount,2
+228,3520,10,Promo CC,Convenience Check Amount,4
+228,3492,8,LOL CC,Convenience Check Amount,4
+228,3526,20,LOL CC,Convenience Check Amount,4
+300,3531,10,Promo BT,Balance Transfer Amount,2
+228,3536,20,LOL CC,Convenience Check Amount,4
+300,3537,20,LOL BT,Balance Transfer Amount,2
+300,3535,10,Promo BT,Balance Transfer Amount,2
+228,3534,10,Promo CC,Convenience Check Amount,4
+161,1025,15,Cash Advance,Cash Advance Amount,3
+218,3547,8,LOL BT,Balance Transfer Amount,2
+218,3549,8,LOL BT,Balance Transfer Amount,2
+218,3551,14,Promo BT,Balance Transfer Amount,2
+218,3561,14,Promo BT,Balance Transfer Amount,2
+218,3543,14,Promo BT,Balance Transfer Amount,2
+218,3555,8,LOL BT,Balance Transfer Amount,2
+218,3545,14,Promo BT,Balance Transfer Amount,2
+104,3546,8,LOL CC,Convenience Check Amount,4
+104,3548,8,LOL CC,Convenience Check Amount,4
+104,3550,14,Promo CC,Convenience Check Amount,4
+104,3554,8,LOL CC,Convenience Check Amount,4
+104,3557,8,LOL CC,Convenience Check Amount,4
+104,3542,14,Promo CC,Convenience Check Amount,4
+104,3560,14,Promo CC,Convenience Check Amount,4
+376,2225,1,Purchase,Purchases,1
+104,3544,14,Promo CC,Convenience Check Amount,4
+228,3554,8,LOL CC,Convenience Check Amount,4
+227,3668,20,LOL CC,Convenience Check Amount,4
+227,3670,20,LOL CC,Convenience Check Amount,4
+296,3669,20,LOL BT,Balance Transfer Amount,2
+228,3675,19,Promo CC,Convenience Check Amount,4
+300,3160,3,Balance Transfer,Balance Transfer Amount,2
+300,3244,3,Balance Transfer,Balance Transfer Amount,2
+300,3459,19,Promo BT,Balance Transfer Amount,2
+218,3684,12,Promo BT,Balance Transfer Amount,2
+218,3686,8,LOL BT,Balance Transfer Amount,2
+218,3688,8,LOL BT,Balance Transfer Amount,2
+1001,4021,5,Purchase,Purchases,1
+104,3133,4,Promo CC,Convenience Check Amount,4
+300,3053,8,LOL BT,Balance Transfer Amount,2
+3001,2227,1,Purchase,Purchases,1
+3006,2227,1,Purchase,Purchases,1
+228,3137,10,Promo CC,Convenience Check Amount,4
+218,3154,11,Promo BT,Balance Transfer Amount,2
+218,3158,11,Promo BT,Balance Transfer Amount,2
+218,3156,11,Promo BT,Balance Transfer Amount,2
+218,3162,8,LOL BT,Balance Transfer Amount,2
+218,3015,14,Promo BT,Balance Transfer Amount,2
+228,3149,8,LOL CC,Convenience Check Amount,4
+228,3147,13,Promo CC,Convenience Check Amount,4
+160,2228,1,Purchase,Purchases,1
+160,2227,1,Purchase,Purchases,1
+296,3106,12,Promo BT,Balance Transfer Amount,2
+296,3134,4,Promo BT,Balance Transfer Amount,2
+300,3061,9,Promo BT,Balance Transfer Amount,2
+300,3134,4,Promo BT,Balance Transfer Amount,2
+300,3150,8,LOL BT,Balance Transfer Amount,2
+1006,4021,5,Purchase,Purchases,1
+228,3159,3,Convenience Check,Convenience Check Amount,4
+104,3153,11,Promo CC,Convenience Check Amount,4
+104,3155,11,Promo CC,Convenience Check Amount,4
+104,3157,11,Promo CC,Convenience Check Amount,4
+104,3161,8,LOL CC,Convenience Check Amount,4
+228,3133,4,Promo CC,Convenience Check Amount,4
+300,3156,11,Promo BT,Balance Transfer Amount,2
+1003,1020,15,Cash Advance,Cash Advance Amount,3
+104,3143,13,Promo CC,Convenience Check Amount,4
+300,3144,13,Promo BT,Balance Transfer Amount,2
+1002,1019,15,Cash Advance,Cash Advance Amount,3
+3002,1019,15,Cash Advance,Cash Advance Amount,3
+3005,1020,15,Cash Advance,Cash Advance Amount,3
+3038,2,2,Cash Advance,Cash Advance Amount,3
+3001,3172,16,Purchase,Purchases,1
+218,3168,17,Promo BT,Balance Transfer Amount,2
+218,3164,17,Promo BT,Balance Transfer Amount,2
+328,3154,11,Promo BT,Balance Transfer Amount,2
+218,3166,17,Promo BT,Balance Transfer Amount,2
+228,3151,4,Promo CC,Convenience Check Amount,4
+112,3153,11,Promo CC,Convenience Check Amount,4
+218,3170,3,Balance Transfer,Balance Transfer Amount,2
+101,2227,1,Purchase,Purchases,1
+101,2228,1,Purchase,Purchases,1
+106,2228,1,Purchase,Purchases,1
+104,3154,11,Promo CC,Convenience Check Amount,4
+3031,2228,1,Purchase,Purchases,1
+300,3162,8,LOL BT,Balance Transfer Amount,2
+3006,3172,16,Purchase,Purchases,1
+102,1019,15,Cash Advance,Cash Advance Amount,3
+101,3172,16,Purchase,Purchases,1
+112,3161,8,LOL CC,Convenience Check Amount,4
+104,3030,3,Convenience Check,Convenience Check Amount,4
+3002,1021,15,Cash Advance,Cash Advance Amount,3
+1001,3172,16,Purchase,Purchases,1
+228,3155,11,Promo CC,Convenience Check Amount,4
+1006,3172,16,Purchase,Purchases,1
+104,3167,17,Promo CC,Convenience Check Amount,4
+104,3163,17,Promo CC,Convenience Check Amount,4
+104,3169,3,Convenience Check,Convenience Check Amount,4
+104,3165,17,Promo CC,Convenience Check Amount,4
+104,3171,18,Promo CC,Convenience Check Amount,4
+106,3172,16,Purchase,Purchases,1
+160,3172,16,Purchase,Purchases,1
+228,3153,11,Promo CC,Convenience Check Amount,4
+296,3131,3,Balance Transfer,Balance Transfer Amount,2
+296,3156,11,Promo BT,Balance Transfer Amount,2
+300,3154,11,Promo BT,Balance Transfer Amount,2
+300,3164,17,Promo BT,Balance Transfer Amount,2
+354,15,1,Purchase,Purchases,1
+3031,1024,5,Purchase,Purchases,1
+3031,3172,16,Purchase,Purchases,1
+3036,3172,16,Purchase,Purchases,1
+300,3166,17,Promo BT,Balance Transfer Amount,2
+228,3130,3,Convenience Check,Convenience Check Amount,4
+300,3158,11,Promo BT,Balance Transfer Amount,2
+3031,2226,1,Purchase,Purchases,1
+1001,2224,1,Purchase,Purchases,1
+1006,2224,1,Purchase,Purchases,1
+3001,2224,1,Purchase,Purchases,1
+218,3011,4,Promo BT,Balance Transfer Amount,2
+130,3172,16,Purchase,Purchases,1
+228,3165,17,Promo CC,Convenience Check Amount,4
+3031,4021,5,Purchase,Purchases,1
+228,3167,17,Promo CC,Convenience Check Amount,4
+218,3174,9,Promo BT,Balance Transfer Amount,2
+218,3176,9,Promo BT,Balance Transfer Amount,2
+218,3178,9,Promo BT,Balance Transfer Amount,2
+104,3186,9,Promo CC,Convenience Check Amount,4
+218,3187,9,Promo BT,Balance Transfer Amount,2
+218,3189,9,Promo BT,Balance Transfer Amount,2
+218,3191,9,Promo BT,Balance Transfer Amount,2
+104,3194,8,LOL CC,Convenience Check Amount,4
+218,3195,8,LOL BT,Balance Transfer Amount,2
+218,3197,8,LOL BT,Balance Transfer Amount,2
+104,3177,9,Promo CC,Convenience Check Amount,4
+104,3180,3,Convenience Check,Convenience Check Amount,4
+104,3182,9,Promo CC,Convenience Check Amount,4
+104,3192,9,Promo CC,Convenience Check Amount,4
+3006,3220,16,Purchase,Purchases,1
+218,3183,9,Promo BT,Balance Transfer Amount,2
+228,3175,9,Promo CC,Convenience Check Amount,4
+300,3174,9,Promo BT,Balance Transfer Amount,2
+300,3189,9,Promo BT,Balance Transfer Amount,2
+1001,2228,1,Purchase,Purchases,1
+1006,2228,1,Purchase,Purchases,1
+228,3173,9,Promo CC,Convenience Check Amount,4
+228,3188,9,Promo CC,Convenience Check Amount,4
+300,3187,9,Promo BT,Balance Transfer Amount,2
+3001,2003,5,Purchase,Purchases,1
+3006,2003,5,Purchase,Purchases,1
+218,3224,4,Promo BT,Balance Transfer Amount,2
+218,3226,4,Promo BT,Balance Transfer Amount,2
+218,3228,4,Promo BT,Balance Transfer Amount,2
+218,3232,4,Promo BT,Balance Transfer Amount,2
+104,3227,4,Promo CC,Convenience Check Amount,4
+104,3231,4,Promo CC,Convenience Check Amount,4
+104,3221,4,Promo CC,Convenience Check Amount,4
+104,3223,4,Promo CC,Convenience Check Amount,4
+104,3225,4,Promo CC,Convenience Check Amount,4
+104,3229,4,Promo CC,Convenience Check Amount,4
+106,2224,1,Purchase,Purchases,1
+105,3,2,Cash Advance,Cash Advance Amount,3
+104,4,2,Convenience Check,Convenience Check Amount,4
+101,1024,5,Purchase,Purchases,1
+101,2225,1,Purchase,Purchases,1
+101,2226,1,Purchase,Purchases,1
+101,3006,5,Purchase,Purchases,1
+101,3010,5,Purchase,Purchases,1
+101,3084,11,Purchase,Purchases,1
+102,3000,2,Cash Advance,Cash Advance Amount,3
+104,1008,4,Promo CC,Convenience Check Amount,4
+104,3018,8,LOL CC,Convenience Check Amount,4
+104,3050,4,Promo CC,Convenience Check Amount,4
+104,3052,8,LOL CC,Convenience Check Amount,4
+104,3054,9,Promo CC,Convenience Check Amount,4
+104,3056,9,Promo CC,Convenience Check Amount,4
+104,3058,9,Promo CC,Convenience Check Amount,4
+104,3060,9,Promo CC,Convenience Check Amount,4
+104,3062,8,LOL CC,Convenience Check Amount,4
+104,3064,8,LOL CC,Convenience Check Amount,4
+106,1024,5,Purchase,Purchases,1
+160,1024,5,Purchase,Purchases,1
+160,2226,1,Purchase,Purchases,1
+1001,1,1,Purchase,Purchases,1
+1006,1,1,Purchase,Purchases,1
+1025,1,1,Purchase,Purchases,1
+1026,1,1,Purchase,Purchases,1
+3001,1,1,Purchase,Purchases,1
+3006,1,1,Purchase,Purchases,1
+3031,1,1,Purchase,Purchases,1
+3036,1,1,Purchase,Purchases,1
+107,3000,2,Cash Advance,Cash Advance Amount,3
+131,1,1,Cash Advance,Cash Advance Amount,3
+161,3000,2,Cash Advance,Cash Advance Amount,3
+239,3,2,Cash Advance,Cash Advance Amount,3
+1002,1,1,Cash Advance,Cash Advance Amount,3
+1003,1,1,Cash Advance,Cash Advance Amount,3
+1027,1,1,Cash Advance,Cash Advance Amount,3
+3002,1,1,Cash Advance,Cash Advance Amount,3
+3005,1,1,Cash Advance,Cash Advance Amount,3
+3008,1,1,Cash Advance,Cash Advance Amount,3
+3032,1,1,Cash Advance,Cash Advance Amount,3
+3035,1,1,Cash Advance,Cash Advance Amount,3
+218,1009,4,Promo BT,Balance Transfer Amount,2
+218,2229,3,Balance Transfer,Balance Transfer Amount,2
+218,3005,3,Balance Transfer,Balance Transfer Amount,2
+218,3019,8,LOL BT,Balance Transfer Amount,2
+218,3051,4,Promo BT,Balance Transfer Amount,2
+218,3053,8,LOL BT,Balance Transfer Amount,2
+218,3055,9,Promo BT,Balance Transfer Amount,2
+218,3057,9,Promo BT,Balance Transfer Amount,2
+218,3059,9,Promo BT,Balance Transfer Amount,2
+218,3061,9,Promo BT,Balance Transfer Amount,2
+218,3063,8,LOL BT,Balance Transfer Amount,2
+218,3065,8,LOL BT,Balance Transfer Amount,2
+218,3067,4,Promo BT,Balance Transfer Amount,2
+218,3069,8,LOL BT,Balance Transfer Amount,2
+218,3083,8,LOL BT,Balance Transfer Amount,2
+218,3086,11,Promo BT,Balance Transfer Amount,2
+218,4022,8,LOL BT,Balance Transfer Amount,2
+296,1,1,Balance Transfer,Balance Transfer Amount,2
+296,1,4,Promo BT,Balance Transfer Amount,2
+300,2229,3,Balance Transfer,Balance Transfer Amount,2
+300,3005,3,Balance Transfer,Balance Transfer Amount,2
+300,3019,8,LOL BT,Balance Transfer Amount,2
+328,1,1,Balance Transfer,Balance Transfer Amount,2
+328,1,4,Promo BT,Balance Transfer Amount,2
+104,3066,4,Promo CC,Convenience Check Amount,4
+104,3068,8,LOL CC,Convenience Check Amount,4
+104,3085,11,Promo CC,Convenience Check Amount,4
+104,4023,8,LOL CC,Convenience Check Amount,4
+104,4100,3,Convenience Check,Convenience Check Amount,4
+112,1,4,Promo CC,Convenience Check Amount,4
+112,1,1,Convenience Check,Convenience Check Amount,4
+227,1,1,Convenience Check,Convenience Check Amount,4
+227,1,4,Promo CC,Convenience Check Amount,4
+228,4,2,Promo CC,Convenience Check Amount,4
+228,4,2,Convenience Check,Convenience Check Amount,4
+354,1,1,Purchase,Purchases,1
+106,1,1,Purchase,Purchases,1
+160,1,1,Purchase,Purchases,1
+3001,2222,5,Purchase,Purchases,1
+3002,3000,2,Cash Advance,Cash Advance Amount,3
+1003,3,2,Cash Advance,Cash Advance Amount,3
+104,3074,10,Promo CC,Convenience Check Amount,4
+328,3004,3,Balance Transfer,Balance Transfer Amount,2
+104,3070,10,Promo CC,Convenience Check Amount,4
+218,3073,10,Promo BT,Balance Transfer Amount,2
+3008,3000,2,Cash Advance,Cash Advance Amount,3
+104,3072,10,Promo CC,Convenience Check Amount,4
+218,3077,10,Promo BT,Balance Transfer Amount,2
+296,2229,3,Balance Transfer,Balance Transfer Amount,2
+106,2222,5,Purchase,Purchases,1
+218,3079,8,LOL BT,Balance Transfer Amount,2
+3005,3,2,Cash Advance,Cash Advance Amount,3
+104,3078,8,LOL CC,Convenience Check Amount,4
+1027,3000,2,Cash Advance,Cash Advance Amount,3
+104,3076,10,Promo CC,Convenience Check Amount,4
+218,3081,11,Promo BT,Balance Transfer Amount,2
+218,3075,10,Promo BT,Balance Transfer Amount,2
+101,4,2,Purchase,Purchases,1
+101,31,3,Purchase,Purchases,1
+218,3090,11,Promo BT,Balance Transfer Amount,2
+300,3051,4,Promo BT,Balance Transfer Amount,2
+300,3067,4,Promo BT,Balance Transfer Amount,2
+218,3071,10,Promo BT,Balance Transfer Amount,2
+228,3050,4,Promo CC,Convenience Check Amount,4
+228,3072,10,Promo CC,Convenience Check Amount,4
+300,3057,9,Promo BT,Balance Transfer Amount,2
+228,3056,9,Promo CC,Convenience Check Amount,4
+300,3079,8,LOL BT,Balance Transfer Amount,2
+218,3088,11,Promo BT,Balance Transfer Amount,2
+228,3018,8,LOL CC,Convenience Check Amount,4
+300,3073,10,Promo BT,Balance Transfer Amount,2
+1002,3000,2,Cash Advance,Cash Advance Amount,3
+300,3063,8,LOL BT,Balance Transfer Amount,2
+228,3078,8,LOL CC,Convenience Check Amount,4
+3001,2226,1,Purchase,Purchases,1
+3001,3010,5,Purchase,Purchases,1
+3006,3010,5,Purchase,Purchases,1
+3001,3008,5,Purchase,Purchases,1
+101,2222,5,Purchase,Purchases,1
+104,3089,11,Promo CC,Convenience Check Amount,4
+104,3080,11,Promo CC,Convenience Check Amount,4
+104,3087,11,Promo CC,Convenience Check Amount,4
+104,3082,8,LOL CC,Convenience Check Amount,4
+300,3081,11,Promo BT,Balance Transfer Amount,2
+300,3069,8,LOL BT,Balance Transfer Amount,2
+1001,1024,5,Purchase,Purchases,1
+3006,1024,5,Purchase,Purchases,1
+3001,1024,5,Purchase,Purchases,1
+160,3010,5,Purchase,Purchases,1
+3006,2226,1,Purchase,Purchases,1
+3001,3084,5,Purchase,Purchases,1
+1001,3084,5,Purchase,Purchases,1
+160,3084,5,Purchase,Purchases,1
+296,3005,3,Balance Transfer,Balance Transfer Amount,2
+228,4100,3,Convenience Check,Convenience Check Amount,4
+1006,2226,1,Purchase,Purchases,1
+1006,3084,5,Purchase,Purchases,1
+238,3,2,Cash Advance,Cash Advance Amount,3
+1001,3008,5,Purchase,Purchases,1
+1006,3008,5,Purchase,Purchases,1
+3006,3008,5,Purchase,Purchases,1
+3006,3006,5,Purchase,Purchases,1
+218,31,3,Balance Transfer,Balance Transfer Amount,2
+1025,2226,1,Purchase,Purchases,1
+300,3055,9,Promo BT,Balance Transfer Amount,2
+3032,3000,2,Cash Advance,Cash Advance Amount,3
+300,3065,8,LOL BT,Balance Transfer Amount,2
+300,31,3,Balance Transfer,Balance Transfer Amount,2
+1006,2225,1,Purchase,Purchases,1
+328,3057,9,Promo BT,Balance Transfer Amount,2
+1001,2225,1,Purchase,Purchases,1
+328,3005,3,Balance Transfer,Balance Transfer Amount,2
+296,31,3,Balance Transfer,Balance Transfer Amount,2
+227,4,2,Convenience Check,Convenience Check Amount,4
+324,24,6,Purchase,Purchases,1
+106,3010,5,Purchase,Purchases,1
+227,3050,4,Promo CC,Convenience Check Amount,4
+3031,3008,5,Purchase,Purchases,1
+296,3051,3,Balance Transfer,Balance Transfer Amount,2
+218,3009,4,Promo BT,Balance Transfer Amount,2
+218,3112,8,LOL BT,Balance Transfer Amount,2
+131,3000,2,Cash Advance,Cash Advance Amount,3
+218,3108,12,Promo BT,Balance Transfer Amount,2
+300,3090,11,Promo BT,Balance Transfer Amount,2
+1001,2222,5,Purchase,Purchases,1
+1006,2222,5,Purchase,Purchases,1
+3006,2222,5,Purchase,Purchases,1
+130,2226,1,Purchase,Purchases,1
+228,3082,8,LOL CC,Convenience Check Amount,4
+300,3083,8,LOL BT,Balance Transfer Amount,2
+300,4022,8,LOL BT,Balance Transfer Amount,2
+106,3084,5,Purchase,Purchases,1
+218,3106,12,Promo BT,Balance Transfer Amount,2
+104,3105,12,Promo CC,Convenience Check Amount,4
+3002,2,2,Cash Advance,Cash Advance Amount,3
+104,3111,8,LOL CC,Convenience Check Amount,4
+161,2,2,Cash Advance,Cash Advance Amount,3
+300,3108,12,Promo BT,Balance Transfer Amount,2
+328,3108,12,Promo BT,Balance Transfer Amount,2
+1027,2,2,Cash Advance,Cash Advance Amount,3
+300,3106,12,Promo BT,Balance Transfer Amount,2
+1006,3006,5,Purchase,Purchases,1
+300,3112,8,LOL BT,Balance Transfer Amount,2
+1025,3084,5,Purchase,Purchases,1
+228,3107,12,Promo CC,Convenience Check Amount,4
+1006,3010,5,Purchase,Purchases,1
+3001,3084,11,Purchase,Purchases,1
+1001,3084,11,Purchase,Purchases,1
+3006,3084,11,Purchase,Purchases,1
+228,3068,8,LOL CC,Convenience Check Amount,4
+106,2225,1,Purchase,Purchases,1
+160,2225,1,Purchase,Purchases,1
+218,3020,4,Promo BT,Balance Transfer Amount,2
+104,3007,4,Promo CC,Convenience Check Amount,4
+300,3020,4,Promo BT,Balance Transfer Amount,2
+130,2225,1,Purchase,Purchases,1
+228,3007,4,Promo CC,Convenience Check Amount,4
+3031,3115,1,Purchase,Purchases,1
+300,3394,8,LOL BT,Balance Transfer Amount,2
+3036,3115,1,Purchase,Purchases,1
+228,3387,18,Promo CC,Convenience Check Amount,4
+228,3393,8,LOL CC,Convenience Check Amount,4
+228,3397,8,LOL CC,Convenience Check Amount,4
+300,3412,18,Promo BT,Balance Transfer Amount,2
+104,3562,18,Promo CC,Convenience Check Amount,4
+104,3564,18,Promo CC,Convenience Check Amount,4
+104,3572,20,LOL CC,Convenience Check Amount,4
+104,3580,18,Promo CC,Convenience Check Amount,4
+300,3563,18,Promo BT,Balance Transfer Amount,2
+1028,1027,15,Cash Advance,Cash Advance Amount,3
+228,3586,20,LOL CC,Convenience Check Amount,4
+228,3572,20,LOL CC,Convenience Check Amount,4
+300,3575,20,LOL BT,Balance Transfer Amount,2
+109,1028,15,Cash Advance,Cash Advance Amount,3
+228,3591,8,LOL CC,Convenience Check Amount,4
+228,3603,8,LOL CC,Convenience Check Amount,4
+300,3602,9,Promo BT,Balance Transfer Amount,2
+218,3609,4,Promo BT,Balance Transfer Amount,2
+218,3613,20,LOL BT,Balance Transfer Amount,2
+218,3615,20,LOL BT,Balance Transfer Amount,2
+218,3617,20,LOL BT,Balance Transfer Amount,2
+218,3625,20,LOL BT,Balance Transfer Amount,2
+218,3627,4,Promo BT,Balance Transfer Amount,2
+218,3629,4,Promo BT,Balance Transfer Amount,2
+300,3613,20,LOL BT,Balance Transfer Amount,2
+104,3624,20,LOL CC,Convenience Check Amount,4
+104,3628,4,Promo CC,Convenience Check Amount,4
+104,3635,4,Promo CC,Convenience Check Amount,4
+104,3639,4,Promo CC,Convenience Check Amount,4
+104,3552,14,Promo CC,Convenience Check Amount,4
+300,3615,20,LOL BT,Balance Transfer Amount,2
+3001,2015,5,Purchase,Purchases,1
+228,3593,8,LOL CC,Convenience Check Amount,4
+104,3641,20,LOL CC,Convenience Check Amount,4
+3031,3632,16,Purchase,Purchases,1
+3031,3633,16,Purchase,Purchases,1
+228,3616,20,LOL CC,Convenience Check Amount,4
+228,3626,4,Promo CC,Convenience Check Amount,4
+106,3633,16,Purchase,Purchases,1
+130,3633,16,Purchase,Purchases,1
+1001,2015,5,Purchase,Purchases,1
+375,1,1,Purchase,Purchases,1
+376,1,1,Purchase,Purchases,1
+104,3656,8,LOL CC,Convenience Check Amount,4
+104,3659,17,Promo CC,Convenience Check Amount,4
+300,3648,8,LOL BT,Balance Transfer Amount,2
+218,3606,4,Promo BT,Balance Transfer Amount,2
+130,2015,5,Purchase,Purchases,1
+228,3679,19,Promo CC,Convenience Check Amount,4
+228,3668,20,LOL CC,Convenience Check Amount,4
+300,3676,19,Promo BT,Balance Transfer Amount,2
+1006,1024,5,Purchase,Purchases,1
+1001,3010,5,Purchase,Purchases,1
+1001,2226,1,Purchase,Purchases,1
+3006,3084,5,Purchase,Purchases,1
+296,3019,8,LOL BT,Balance Transfer Amount,2
+101,3084,5,Purchase,Purchases,1
+109,1,1,Purchase,Purchases,1
+1001,3006,5,Purchase,Purchases,1
+3001,3006,5,Purchase,Purchases,1
+104,3051,4,Promo CC,Convenience Check Amount,4
+300,3059,9,Promo BT,Balance Transfer Amount,2
+112,4,2,Convenience Check,Convenience Check Amount,4
+328,3051,4,Promo BT,Balance Transfer Amount,2
+106,2226,1,Purchase,Purchases,1
+227,1,3,Convenience Check,Convenience Check Amount,4
+228,1008,4,Promo CC,Convenience Check Amount,4
+3035,3,2,Cash Advance,Cash Advance Amount,3
+296,3020,4,Promo BT,Balance Transfer Amount,2
+218,3110,12,Promo BT,Balance Transfer Amount,2
+228,3080,11,Promo CC,Convenience Check Amount,4
+160,2222,5,Purchase,Purchases,1
+104,3109,12,Promo CC,Convenience Check Amount,4
+104,3107,12,Promo CC,Convenience Check Amount,4
+3001,3113,1,Purchase,Purchases,1
+1002,2,2,Cash Advance,Cash Advance Amount,3
+328,3106,12,Promo BT,Balance Transfer Amount,2
+1001,3113,1,Purchase,Purchases,1
+296,3073,10,Promo BT,Balance Transfer Amount,2
+228,3066,4,Promo CC,Convenience Check Amount,4
+228,3062,8,LOL CC,Convenience Check Amount,4
+300,3120,4,Promo BT,Balance Transfer Amount,2
+300,3123,4,Promo BT,Balance Transfer Amount,2
+320,3125,4,Promo BT,Balance Transfer Amount,2
+320,3122,4,Promo BT,Balance Transfer Amount,2
+320,3127,8,LOL BT,Balance Transfer Amount,2
+328,3128,8,LOL BT,Balance Transfer Amount,2
+300,8727,8,LOL BT,Balance Transfer Amount,2
+104,8706,8,LOL CC,Convenience Check Amount,4
+104,8711,10,Promo CC,Convenience Check Amount,4
+104,8703,10,Promo CC,Convenience Check Amount,4
+104,8704,10,Promo CC,Convenience Check Amount,4
+104,8717,10,Promo CC,Convenience Check Amount,4
+104,8718,10,Promo CC,Convenience Check Amount,4
+104,8722,8,LOL CC,Convenience Check Amount,4
+104,8726,8,LOL CC,Convenience Check Amount,4
+296,3644,17,Promo BT,Balance Transfer Amount,2
+228,3683,12,Promo CC,Convenience Check Amount,4
+300,3730,20,LOL BT,Balance Transfer Amount,2
+228,3737,20,LOL CC,Convenience Check Amount,4
+300,3715,3,Balance Transfer,Balance Transfer Amount,2
+296,3734,13,Promo BT,Balance Transfer Amount,2
+228,8706,8,LOL CC,Convenience Check Amount,4
+228,8711,10,Promo CC,Convenience Check Amount,4
+104,3723,13,Promo CC,Convenience Check Amount,4
+104,3726,13,Promo CC,Convenience Check Amount,4
+104,3145,13,Promo CC,Convenience Check Amount,4
+104,3716,13,Promo CC,Convenience Check Amount,4
+218,3724,20,LOL BT,Balance Transfer Amount,2
+104,3737,20,LOL CC,Convenience Check Amount,4
+227,3126,8,LOL CC,Convenience Check Amount,4
+300,3721,20,LOL BT,Balance Transfer Amount,2
+104,3722,20,LOL CC,Convenience Check Amount,4
+228,3731,20,LOL CC,Convenience Check Amount,4
+104,3732,13,Promo CC,Convenience Check Amount,4
+228,3732,13,Promo CC,Convenience Check Amount,4
+228,3727,13,Promo CC,Convenience Check Amount,4
+300,3734,13,Promo BT,Balance Transfer Amount,2
+228,3718,13,Promo CC,Convenience Check Amount,4
+296,3665,20,LOL BT,Balance Transfer Amount,2
+104,8709,8,LOL CC,Convenience Check Amount,4
+228,8709,8,LOL CC,Convenience Check Amount,4
+104,8715,8,LOL CC,Convenience Check Amount,4
+9502,2,2,Cash Advance,Cash Advance Amount,3
+104,3718,13,Promo CC,Convenience Check Amount,4
+300,3725,13,Promo BT,Balance Transfer Amount,2
+104,3727,13,Promo CC,Convenience Check Amount,4
+104,3731,20,LOL CC,Convenience Check Amount,4
+104,3733,20,LOL CC,Convenience Check Amount,4
+104,3735,13,Promo CC,Convenience Check Amount,4
+228,3723,13,Promo CC,Convenience Check Amount,4
+227,3733,20,LOL CC,Convenience Check Amount,4
+228,3735,13,Promo CC,Convenience Check Amount,4
+102,1027,15,Cash Advance,Cash Advance Amount,3
+161,1027,15,Cash Advance,Cash Advance Amount,3
+300,3736,20,LOL BT,Balance Transfer Amount,2
+112,3128,8,LOL CC,Convenience Check Amount,4
+104,3159,3,Convenience Check,Convenience Check Amount,4
+300,3728,13,Promo BT,Balance Transfer Amount,2
+218,8710,8,LOL BT,Balance Transfer Amount,2
+218,8716,8,LOL BT,Balance Transfer Amount,2
+218,3730,20,LOL BT,Balance Transfer Amount,2
+300,3717,13,Promo BT,Balance Transfer Amount,2
+228,3720,20,LOL CC,Convenience Check Amount,4
+218,3715,3,Balance Transfer,Balance Transfer Amount,2
+218,8701,10,Promo BT,Balance Transfer Amount,2
+218,8707,8,LOL BT,Balance Transfer Amount,2
+218,8713,10,Promo BT,Balance Transfer Amount,2
+218,8714,8,LOL BT,Balance Transfer Amount,2
+218,8719,10,Promo BT,Balance Transfer Amount,2
+218,8720,10,Promo BT,Balance Transfer Amount,2
+218,8727,8,LOL BT,Balance Transfer Amount,2
+218,3160,3,Balance Transfer,Balance Transfer Amount,2
+218,3260,3,Balance Transfer,Balance Transfer Amount,2
+104,4210,3,Convenience Check,Convenience Check Amount,4
+104,8702,10,Promo CC,Convenience Check Amount,4
+218,8705,10,Promo BT,Balance Transfer Amount,2
+218,8724,8,LOL BT,Balance Transfer Amount,2
+300,3588,9,Promo BT,Balance Transfer Amount,2
+104,3589,9,Promo CC,Convenience Check Amount,4
+104,3593,8,LOL CC,Convenience Check Amount,4
+300,3600,9,Promo BT,Balance Transfer Amount,2
+102,3,2,Cash Advance,Cash Advance Amount,3
+300,3598,8,LOL BT,Balance Transfer Amount,2
+227,3566,20,LOL CC,Convenience Check Amount,4
+227,3578,18,Promo CC,Convenience Check Amount,4
+227,3595,8,LOL CC,Convenience Check Amount,4
+227,3599,9,Promo CC,Convenience Check Amount,4
+104,3614,20,LOL CC,Convenience Check Amount,4
+104,3616,20,LOL CC,Convenience Check Amount,4
+104,3626,4,Promo CC,Convenience Check Amount,4
+104,3638,20,LOL CC,Convenience Check Amount,4
+104,3640,20,LOL CC,Convenience Check Amount,4
+300,3585,18,Promo BT,Balance Transfer Amount,2
+300,3625,20,LOL BT,Balance Transfer Amount,2
+228,3638,20,LOL CC,Convenience Check Amount,4
+228,3614,20,LOL CC,Convenience Check Amount,4
+104,3661,17,Promo CC,Convenience Check Amount,4
+218,3631,20,LOL BT,Balance Transfer Amount,2
+106,3632,16,Purchase,Purchases,1
+130,3632,16,Purchase,Purchases,1
+218,3050,4,Promo BT,Balance Transfer Amount,2
+300,8353,21,Promo BT,Balance Transfer Amount,2
+300,2004,3,Balance Transfer,Balance Transfer Amount,2
+300,402,1003,Balance Transfer,Balance Transfer Amount,2
+138,2004,5,Purchase,Purchases,1
+218,8346,24,Promo CC,Convenience Check Amount,4
+228,8374,31,Promo CC,Convenience Check Amount,4
+146,8346,24,Promo CC,Convenience Check Amount,4
+223,8501,2,Cash Advance,Cash Advance Amount,3
+9501,8803,16,Purchase,Purchases,1
+218,8366,29,Promo CC,Convenience Check Amount,4
+228,8334,24,Promo CC,Convenience Check Amount,4
+138,1,1,Purchase,Purchases,1
+5601,1,1,Purchase,Purchases,1
+5602,2,2,Cash Advance,Cash Advance Amount,3
+5606,1,1,Purchase,Purchases,1
+101,8344,24,Purchase,Purchases,1
+160,8349,5,Purchase,Purchases,1
+160,2010,5,Purchase,Purchases,1
+1001,3684,12,Purchase,Purchases,1
+1006,2007,5,Purchase,Purchases,1
+160,8341,23,Purchase,Purchases,1
+7155,2010,5,ON-US PURCHASE,Purchases,1
+7146,2004,5,ON-US PURCHASE,Purchases,1
+218,3368,11,Promo BT,Balance Transfer Amount,2
+218,3376,11,Promo BT,Balance Transfer Amount,2
+218,3384,8,LOL BT,Balance Transfer Amount,2
+104,3365,11,Promo CC,Convenience Check Amount,4
+104,3369,11,Promo CC,Convenience Check Amount,4
+104,3383,8,LOL CC,Convenience Check Amount,4
+104,3381,8,LOL CC,Convenience Check Amount,4
+296,3525,20,LOL BT,Balance Transfer Amount,2
+228,3548,8,LOL CC,Convenience Check Amount,4
+228,3557,8,LOL CC,Convenience Check Amount,4
+300,3688,8,LOL BT,Balance Transfer Amount,2
+218,3690,8,LOL BT,Balance Transfer Amount,2
+218,3693,12,Promo BT,Balance Transfer Amount,2
+300,3690,8,LOL BT,Balance Transfer Amount,2
+104,3691,8,LOL CC,Convenience Check Amount,4
+228,3662,19,Promo CC,Convenience Check Amount,4
+104,3671,20,LOL CC,Convenience Check Amount,4
+1003,3682,2,Cash Advance,Cash Advance Amount,3
+3008,3682,2,Cash Advance,Cash Advance Amount,3
+104,3694,12,Promo CC,Convenience Check Amount,4
+104,3695,8,LOL CC,Convenience Check Amount,4
+104,3697,12,Promo CC,Convenience Check Amount,4
+218,3696,8,LOL BT,Balance Transfer Amount,2
+300,3686,8,LOL BT,Balance Transfer Amount,2
+300,3684,12,Promo BT,Balance Transfer Amount,2
+104,3699,8,LOL CC,Convenience Check Amount,4
+218,3672,20,LOL BT,Balance Transfer Amount,2
+218,3417,9,Promo BT,Balance Transfer Amount,2
+218,3427,8,LOL BT,Balance Transfer Amount,2
+218,3431,9,Promo BT,Balance Transfer Amount,2
+218,3439,9,Promo BT,Balance Transfer Amount,2
+104,3416,9,Promo CC,Convenience Check Amount,4
+218,3419,9,Promo BT,Balance Transfer Amount,2
+218,3421,9,Promo BT,Balance Transfer Amount,2
+218,3425,9,Promo BT,Balance Transfer Amount,2
+218,3429,8,LOL BT,Balance Transfer Amount,2
+218,3433,9,Promo BT,Balance Transfer Amount,2
+218,3443,8,LOL BT,Balance Transfer Amount,2
+104,3418,9,Promo CC,Convenience Check Amount,4
+104,3420,9,Promo CC,Convenience Check Amount,4
+104,3422,8,LOL CC,Convenience Check Amount,4
+218,3423,8,LOL BT,Balance Transfer Amount,2
+104,3424,9,Promo CC,Convenience Check Amount,4
+104,3426,8,LOL CC,Convenience Check Amount,4
+104,3428,8,LOL CC,Convenience Check Amount,4
+104,3430,9,Promo CC,Convenience Check Amount,4
+218,3435,8,LOL BT,Balance Transfer Amount,2
+104,3434,8,LOL CC,Convenience Check Amount,4
+218,3437,9,Promo BT,Balance Transfer Amount,2
+104,3442,8,LOL CC,Convenience Check Amount,4
+104,3432,9,Promo CC,Convenience Check Amount,4
+104,3438,9,Promo CC,Convenience Check Amount,4
+104,3436,9,Promo CC,Convenience Check Amount,4
+300,3429,8,LOL BT,Balance Transfer Amount,2
+228,3420,9,Promo CC,Convenience Check Amount,4
+300,3417,9,Promo BT,Balance Transfer Amount,2
+218,2004,3,Balance Transfer,Balance Transfer Amount,2
+218,3636,4,Promo BT,Balance Transfer Amount,2
+160,2004,5,Purchase,Purchases,1
+296,3627,4,Promo BT,Balance Transfer Amount,2
+328,31,3,Balance Transfer,Balance Transfer Amount,2
+228,3647,8,LOL CC,Convenience Check Amount,4
+104,3677,20,LOL CC,Convenience Check Amount,4
+104,3668,20,LOL CC,Convenience Check Amount,4
+228,3670,20,LOL CC,Convenience Check Amount,4
+300,2004,5,Purchase,Purchases,1
+300,3667,20,LOL BT,Balance Transfer Amount,2
+228,3664,20,LOL CC,Convenience Check Amount,4
+296,3648,8,LOL BT,Balance Transfer Amount,2
+218,2222,5,Purchase,Purchases,1
+320,3119,4,Promo BT,Balance Transfer Amount,2
+218,8740,20,LOL BT,Balance Transfer Amount,2
+218,8736,20,LOL BT,Balance Transfer Amount,2
+218,8750,14,Promo BT,Balance Transfer Amount,2
+218,8730,14,Promo BT,Balance Transfer Amount,2
+218,8748,20,LOL BT,Balance Transfer Amount,2
+218,8762,20,LOL BT,Balance Transfer Amount,2
+218,8752,20,LOL BT,Balance Transfer Amount,2
+218,2030,3,Balance Transfer,Balance Transfer Amount,2
+218,8746,14,Promo BT,Balance Transfer Amount,2
+218,8744,20,LOL BT,Balance Transfer Amount,2
+218,8754,20,LOL BT,Balance Transfer Amount,2
+218,8760,14,Promo BT,Balance Transfer Amount,2
+218,8742,20,LOL BT,Balance Transfer Amount,2
+296,8349,25,Promo BT,Balance Transfer Amount,2
+1006,8734,5,Promo BT,Balance Transfer Amount,2
+7146,1009,4,ON-US PURCHASE,Purchases,1
+101,8337,22,Purchase,Purchases,1
+106,3050,5,Purchase,Purchases,1
+104,8339,23,Promo BT,Balance Transfer Amount,2
+104,8361,28,Promo BT,Balance Transfer Amount,2
+300,8336,22,Promo CC,Convenience Check Amount,4
+7146,8345,24,ON-US PURCHASE,Purchases,1
+160,8345,5,Purchase,Purchases,1
+300,8734,25,Promo BT,Balance Transfer Amount,2
+101,8332,21,Purchase,Purchases,1
+101,8338,22,Purchase,Purchases,1
+375,4,2,Balance Transfer,Balance Transfer Amount,2
+376,4,2,Balance Transfer,Balance Transfer Amount,2
+3006,8734,5,Purchase,Purchases,1
+101,8359,28,Purchase,Purchases,1
+101,8377,32,Purchase,Purchases,1
+300,8350,21,Promo BT,Balance Transfer Amount,2
+1006,8374,5,Purchase,Purchases,1
+160,3051,5,Purchase,Purchases,1
+160,8339,5,Purchase,Purchases,1
+160,8377,32,Purchase,Purchases,1
+106,8334,5,Purchase,Purchases,1
+300,8332,21,Promo BT,Balance Transfer Amount,2
+106,2004,5,Purchase,Purchases,1
+160,8734,5,Purchase,Purchases,1
+228,8332,21,Promo BT,Balance Transfer Amount,2
+300,8331,21,Promo BT,Balance Transfer Amount,2
+228,8332,3,Promo BT,Balance Transfer Amount,2
+106,8333,5,Purchase,Purchases,1
+228,8357,28,Promo BT,Balance Transfer Amount,2
+106,2010,5,Purchase,Purchases,1
+104,8360,28,Promo BT,Balance Transfer Amount,2
+3006,8332,5,Purchase,Purchases,1
+300,8334,28,Promo BT,Balance Transfer Amount,2
+3006,8361,5,Purchase,Purchases,1
+300,2015,21,Promo BT,Balance Transfer Amount,2
+218,8338,22,Promo BT,Balance Transfer Amount,2
+218,8358,27,Balance Transfer,Balance Transfer Amount,2
+104,8365,29,Promo BT,Balance Transfer Amount,2
+228,8360,28,Promo BT,Balance Transfer Amount,2
+300,8359,28,Promo BT,Balance Transfer Amount,2
+354,1000,1,Purchase,Purchases,1
+228,8374,21,Balance Transfer,Balance Transfer Amount,2
+354,20,6,Purchase,Purchases,1
+296,8361,28,Promo BT,Balance Transfer Amount,2
+300,8334,3,Promo BT,Balance Transfer Amount,2
+300,8349,3,Promo BT,Balance Transfer Amount,2
+101,8354,26,Promo BT,Balance Transfer Amount,2
+101,8335,22,Balance Transfer,Balance Transfer Amount,2
+219,8350,25,Promo BT,Balance Transfer Amount,2
+218,8332,21,Promo BT,Balance Transfer Amount,2
+1006,8332,5,Purchase,Purchases,1
+160,8345,24,Promo BT,Balance Transfer Amount,2
+106,8338,22,Purchase,Purchases,1
+104,8359,28,Promo BT,Balance Transfer Amount,2
+106,2016,32,Promo BT,Balance Transfer Amount,2
+106,8341,23,Promo BT,Balance Transfer Amount,2
+106,8350,25,Promo BT,Balance Transfer Amount,2
+106,8358,27,Promo BT,Balance Transfer Amount,2
+176,21,4,Convenience Check,Convenience Check Amount,4
+104,8369,30,Promo CC,Convenience Check Amount,4
+300,8361,25,Promo BT,Balance Transfer Amount,2
+228,8734,21,Promo CC,Convenience Check Amount,4
+218,3364,11,Promo BT,Balance Transfer Amount,2
+228,3365,11,Promo CC,Convenience Check Amount,4
+228,3344,10,Promo CC,Convenience Check Amount,4
+101,2009,5,Purchase,Purchases,1
+228,3342,10,Promo CC,Convenience Check Amount,4
+160,2009,5,Purchase,Purchases,1
+218,3388,18,Promo BT,Balance Transfer Amount,2
+218,3392,8,LOL BT,Balance Transfer Amount,2
+218,3404,18,Promo BT,Balance Transfer Amount,2
+218,2003,5,Purchase,Purchases,1
+218,3412,18,Promo BT,Balance Transfer Amount,2
+104,3391,8,LOL CC,Convenience Check Amount,4
+104,3405,18,Promo CC,Convenience Check Amount,4
+104,3389,18,Promo CC,Convenience Check Amount,4
+218,3396,18,Promo BT,Balance Transfer Amount,2
+104,3401,18,Promo CC,Convenience Check Amount,4
+104,3411,18,Promo CC,Convenience Check Amount,4
+130,2003,5,Purchase,Purchases,1
+300,3396,18,Promo BT,Balance Transfer Amount,2
+228,3385,18,Promo CC,Convenience Check Amount,4
+300,4029,17,Promo BT,Balance Transfer Amount,2
+300,4025,17,Promo BT,Balance Transfer Amount,2
+300,3427,8,LOL BT,Balance Transfer Amount,2
+296,3388,18,Promo BT,Balance Transfer Amount,2
+130,1,1,Purchase,Purchases,1
+218,3447,19,Promo BT,Balance Transfer Amount,2
+218,3453,19,Promo BT,Balance Transfer Amount,2
+218,3463,8,LOL BT,Balance Transfer Amount,2
+104,3458,19,Promo CC,Convenience Check Amount,4
+104,3446,19,Promo CC,Convenience Check Amount,4
+104,3452,19,Promo CC,Convenience Check Amount,4
+110,2,2,Cash Advance,Cash Advance Amount,3
+300,3445,19,Promo BT,Balance Transfer Amount,2
+228,3450,19,Promo CC,Convenience Check Amount,4
+228,3456,8,LOL CC,Convenience Check Amount,4
+218,3483,12,Promo BT,Balance Transfer Amount,2
+218,3475,12,Promo BT,Balance Transfer Amount,2
+218,3485,12,Promo BT,Balance Transfer Amount,2
+228,3530,10,Promo CC,Convenience Check Amount,4
+300,3549,8,LOL BT,Balance Transfer Amount,2
+300,3547,8,LOL BT,Balance Transfer Amount,2
+228,3546,8,LOL CC,Convenience Check Amount,4
+300,3577,20,LOL BT,Balance Transfer Amount,2
+1003,1027,15,Cash Advance,Cash Advance Amount,3
+300,3569,20,LOL BT,Balance Transfer Amount,2
+107,1028,15,Cash Advance,Cash Advance Amount,3
+228,3304,8,LOL CC,Convenience Check Amount,4
+104,3558,14,Promo CC,Convenience Check Amount,4
+300,3581,18,Promo BT,Balance Transfer Amount,2
+228,3597,8,LOL CC,Convenience Check Amount,4
+101,2009,1,Purchase,Purchases,1
+300,3594,8,LOL BT,Balance Transfer Amount,2
+300,3590,9,Promo BT,Balance Transfer Amount,2
+227,4030,8,LOL CC,Convenience Check Amount,4
+296,4031,8,LOL BT,Balance Transfer Amount,2
+131,1028,15,Cash Advance,Cash Advance Amount,3
+227,3111,8,LOL CC,Convenience Check Amount,4
+130,3115,1,Purchase,Purchases,1
+296,3567,20,LOL BT,Balance Transfer Amount,2
+227,3589,9,Promo CC,Convenience Check Amount,4
+296,3592,8,LOL BT,Balance Transfer Amount,2
+296,3600,9,Promo BT,Balance Transfer Amount,2
+300,3543,14,Promo BT,Balance Transfer Amount,2
+218,3634,4,Promo BT,Balance Transfer Amount,2
+101,2004,1,Purchase,Purchases,1
+101,2007,1,Purchase,Purchases,1
+300,3629,4,Promo BT,Balance Transfer Amount,2
+1001,3632,16,Purchase,Purchases,1
+1006,3632,16,Purchase,Purchases,1
+3006,3632,16,Purchase,Purchases,1
+1006,3633,16,Purchase,Purchases,1
+3006,3633,16,Purchase,Purchases,1
+3008,2,2,Cash Advance,Cash Advance Amount,3
+3006,2015,5,Purchase,Purchases,1
+293,2,2,Cash Advance,Cash Advance Amount,3
+378,2,2,Cash Advance,Cash Advance Amount,3
+238,1028,15,Cash Advance,Cash Advance Amount,3
+104,3653,8,LOL CC,Convenience Check Amount,4
+300,3658,17,Promo BT,Balance Transfer Amount,2
+300,3609,4,Promo BT,Balance Transfer Amount,2
+1001,2010,5,Purchase,Purchases,1
+1006,2010,5,Purchase,Purchases,1
+104,3645,17,Promo CC,Convenience Check Amount,4
+104,3654,8,LOL CC,Convenience Check Amount,4
+228,3624,20,LOL CC,Convenience Check Amount,4
+300,3650,8,LOL BT,Balance Transfer Amount,2
+300,3652,8,LOL BT,Balance Transfer Amount,2
+228,3657,17,Promo CC,Convenience Check Amount,4
+228,3654,8,LOL CC,Convenience Check Amount,4
+300,3660,17,Promo BT,Balance Transfer Amount,2
+101,3114,5,Purchase,Purchases,1
+104,3670,20,LOL CC,Convenience Check Amount,4
+3036,2226,1,Purchase,Purchases,1
+104,3678,20,LOL CC,Convenience Check Amount,4
+300,3663,19,Promo BT,Balance Transfer Amount,2
+296,3680,19,Promo BT,Balance Transfer Amount,2
+300,3669,20,LOL BT,Balance Transfer Amount,2
+104,3466,12,Promo CC,Convenience Check Amount,4
+104,3468,20,LOL CC,Convenience Check Amount,4
+104,3476,12,Promo CC,Convenience Check Amount,4
+104,3472,12,Promo CC,Convenience Check Amount,4
+300,3467,12,Promo BT,Balance Transfer Amount,2
+228,3452,19,Promo CC,Convenience Check Amount,4
+228,3422,8,LOL CC,Convenience Check Amount,4
+300,3465,12,Promo BT,Balance Transfer Amount,2
+102,1025,15,Cash Advance,Cash Advance Amount,3
+1028,1026,15,Cash Advance,Cash Advance Amount,3
+228,4026,17,Promo CC,Convenience Check Amount,4
+218,3495,13,Promo BT,Balance Transfer Amount,2
+239,1026,15,Cash Advance,Cash Advance Amount,3
+300,3471,20,LOL BT,Balance Transfer Amount,2
+296,4022,8,LOL BT,Balance Transfer Amount,2
+227,3675,19,Promo CC,Convenience Check Amount,4
+104,3683,12,Promo CC,Convenience Check Amount,4
+104,3685,8,LOL CC,Convenience Check Amount,4
+104,3687,8,LOL CC,Convenience Check Amount,4
+104,3689,8,LOL CC,Convenience Check Amount,4
+104,3692,12,Promo CC,Convenience Check Amount,4
+300,3693,12,Promo BT,Balance Transfer Amount,2
+1026,2003,5,Purchase,Purchases,1
+228,3689,8,LOL CC,Convenience Check Amount,4
+227,3574,20,LOL CC,Convenience Check Amount,4
+227,3689,8,LOL CC,Convenience Check Amount,4
+228,3692,12,Promo CC,Convenience Check Amount,4
+104,3714,12,Promo CC,Convenience Check Amount,4
+300,3323,19,Promo BT,Balance Transfer Amount,2
+300,3329,19,Promo BT,Balance Transfer Amount,2
+300,3321,19,Promo BT,Balance Transfer Amount,2
+160,2007,5,Purchase,Purchases,1
+300,3325,19,Promo BT,Balance Transfer Amount,2
+300,3331,19,Promo BT,Balance Transfer Amount,2
+300,3335,8,LOL BT,Balance Transfer Amount,2
+228,3334,8,LOL CC,Convenience Check Amount,4
+228,3320,19,Promo CC,Convenience Check Amount,4
+218,3341,10,Promo BT,Balance Transfer Amount,2
+218,3343,10,Promo BT,Balance Transfer Amount,2
+104,8747,14,Promo CC,Convenience Check Amount,4
+218,8732,14,Promo BT,Balance Transfer Amount,2
+104,8739,20,LOL CC,Convenience Check Amount,4
+218,8734,14,Promo BT,Balance Transfer Amount,2
+300,8746,14,Promo BT,Balance Transfer Amount,2
+104,8755,20,LOL CC,Convenience Check Amount,4
+104,8743,21,LOL CC,Convenience Check Amount,4
+104,8731,14,Promo CC,Convenience Check Amount,4
+104,8765,20,LOL CC,Convenience Check Amount,4
+104,8741,20,LOL CC,Convenience Check Amount,4
+104,8761,14,Promo CC,Convenience Check Amount,4
+104,8753,14,Promo CC,Convenience Check Amount,4
+300,8705,10,Promo BT,Balance Transfer Amount,2
+104,8759,20,LOL CC,Convenience Check Amount,4
+104,8745,20,LOL CC,Convenience Check Amount,4
+104,8763,20,LOL CC,Convenience Check Amount,4
+104,8737,14,Promo CC,Convenience Check Amount,4
+104,8735,14,Promo CC,Convenience Check Amount,4
+104,8757,20,LOL CC,Convenience Check Amount,4
+104,8749,14,Promo CC,Convenience Check Amount,4
+300,8744,20,LOL BT,Balance Transfer Amount,2
+296,8719,10,Promo BT,Balance Transfer Amount,2
+104,8751,20,LOL CC,Convenience Check Amount,4
+104,8733,14,Promo CC,Convenience Check Amount,4
+300,8740,20,LOL BT,Balance Transfer Amount,2
+300,8730,14,Promo BT,Balance Transfer Amount,2
+300,8760,14,Promo BT,Balance Transfer Amount,2
+228,8741,20,LOL CC,Convenience Check Amount,4
+300,8752,20,LOL BT,Balance Transfer Amount,2
+218,8764,20,LOL BT,Balance Transfer Amount,2
+228,8755,20,LOL CC,Convenience Check Amount,4
+228,8739,20,LOL CC,Convenience Check Amount,4
+3001,8803,16,Purchase,Purchases,1
+3006,8802,16,Purchase,Purchases,1
+1001,8802,16,Purchase,Purchases,1
+101,8803,16,Purchase,Purchases,1
+3001,8802,16,Purchase,Purchases,1
+3006,8803,16,Purchase,Purchases,1
+1006,8802,16,Purchase,Purchases,1
+1001,8803,16,Purchase,Purchases,1
+101,8802,16,Purchase,Purchases,1
+1006,8803,16,Purchase,Purchases,1
+160,8802,16,Purchase,Purchases,1
+3031,8802,16,Purchase,Purchases,1
+106,8803,16,Purchase,Purchases,1
+130,8803,16,Purchase,Purchases,1
+106,8802,16,Purchase,Purchases,1
+130,8802,16,Purchase,Purchases,1
+3031,8803,16,Purchase,Purchases,1
+1025,8802,16,Purchase,Purchases,1
+300,8742,20,LOL BT,Balance Transfer Amount,2
+300,8750,14,Promo BT,Balance Transfer Amount,2
+300,8736,20,LOL BT,Balance Transfer Amount,2
+228,8747,14,Convenience Check,Convenience Check Amount,4
+228,8765,20,LOL CC,Convenience Check Amount,4
+300,8762,20,LOL BT,Balance Transfer Amount,2
+104,8729,14,Promo CC,Convenience Check Amount,4
+228,8761,14,Convenience Check,Convenience Check Amount,4
+300,8764,20,LOL BT,Balance Transfer Amount,2
+218,8728,14,Promo BT,Balance Transfer Amount,2
+228,8759,20,LOL CC,Convenience Check Amount,4
+218,2004,5,Purchase,Purchases,1
+218,8778,4,Promo BT,Balance Transfer Amount,2
+218,8772,8,LOL BT,Balance Transfer Amount,2
+218,8774,8,LOL BT,Balance Transfer Amount,2
+218,8790,8,LOL BT,Balance Transfer Amount,2
+218,8776,8,LOL BT,Balance Transfer Amount,2
+228,8731,14,Convenience Check,Convenience Check Amount,4
+218,8770,8,LOL BT,Balance Transfer Amount,2
+218,8768,4,Promo BT,Balance Transfer Amount,2
+218,8786,8,LOL BT,Balance Transfer Amount,2
+218,8784,8,LOL BT,Balance Transfer Amount,2
+218,8788,4,Promo BT,Balance Transfer Amount,2
+218,8782,4,Promo BT,Balance Transfer Amount,2
+296,8724,8,LOL BT,Balance Transfer Amount,2
+228,8745,20,LOL CC,Convenience Check Amount,4
+300,8754,20,LOL BT,Balance Transfer Amount,2
+104,8783,4,Promo CC,Convenience Check Amount,4
+300,8774,8,LOL BT,Balance Transfer Amount,2
+104,8771,8,LOL CC,Convenience Check Amount,4
+300,8732,14,Promo BT,Balance Transfer Amount,2
+104,8769,4,Promo CC,Convenience Check Amount,4
+104,8785,4,Promo CC,Convenience Check Amount,4
+104,8775,8,LOL CC,Convenience Check Amount,4
+228,8775,8,LOL CC,Convenience Check Amount,4
+104,8773,8,LOL CC,Convenience Check Amount,4
+104,8777,8,LOL CC,Convenience Check Amount,4
+104,8795,8,LOL CC,Convenience Check Amount,4
+104,8789,4,Promo CC,Convenience Check Amount,4
+104,8781,4,Promo CC,Convenience Check Amount,4
+104,8793,8,LOL CC,Convenience Check Amount,4
+104,8767,4,Promo CC,Convenience Check Amount,4
+104,8779,8,LOL CC,Convenience Check Amount,4
+104,8791,8,LOL CC,Convenience Check Amount,4
+300,8772,8,LOL BT,Balance Transfer Amount,2
+228,8753,14,Convenience Check,Convenience Check Amount,4
+228,8757,20,LOL CC,Convenience Check Amount,4
+228,4210,3,Convenience Check,Convenience Check Amount,4
+300,8770,8,LOL BT,Balance Transfer Amount,2
+300,8778,4,Promo BT,Balance Transfer Amount,2
+104,8787,8,LOL CC,Convenience Check Amount,4
+228,8783,4,Promo CC,Convenience Check Amount,4
+300,8782,4,Promo BT,Balance Transfer Amount,2
+228,8751,20,LOL CC,Convenience Check Amount,4
+300,8748,20,LOL BT,Balance Transfer Amount,2
+228,8791,8,LOL CC,Convenience Check Amount,4
+296,8770,8,LOL BT,Balance Transfer Amount,2
+228,8767,4,Promo CC,Convenience Check Amount,4
+300,8768,4,Promo BT,Balance Transfer Amount,2
+228,8787,8,LOL CC,Convenience Check Amount,4
+300,8790,8,LOL BT,Balance Transfer Amount,2
+228,8793,8,LOL CC,Convenience Check Amount,4
+300,8786,8,LOL BT,Balance Transfer Amount,2
+300,8776,8,LOL BT,Balance Transfer Amount,2
+296,8754,20,LOL BT,Balance Transfer Amount,2
+228,8771,8,LOL CC,Convenience Check Amount,4
+228,8773,8,LOL CC,Convenience Check Amount,4
+228,8795,8,LOL CC,Convenience Check Amount,4
+228,8779,8,LOL CC,Convenience Check Amount,4
+300,8784,8,LOL BT,Balance Transfer Amount,2
+228,8733,14,Convenience Check,Convenience Check Amount,4
+101,3050,4,Purchase,Purchases,1
+104,8400,18,Promo CC,Convenience Check Amount,4
+300,8407,20,LOL BT,Balance Transfer Amount,2
+300,8391,20,LOL BT,Balance Transfer Amount,2
+300,8383,20,LOL BT,Balance Transfer Amount,2
+218,8349,25,Promo BT,Balance Transfer Amount,2
+218,8357,27,Promo BT,Balance Transfer Amount,2
+218,8353,26,Promo BT,Balance Transfer Amount,2
+104,8358,27,Promo CC,Convenience Check Amount,4
+104,8366,29,Promo CC,Convenience Check Amount,4
+104,8354,26,Promo CC,Convenience Check Amount,4
+218,8343,24,LOL BT,Balance Transfer Amount,2
+300,8353,26,Promo BT,Balance Transfer Amount,2
+300,8349,25,Promo BT,Balance Transfer Amount,2
+228,8354,26,Promo CC,Convenience Check Amount,4
+300,8357,27,Promo BT,Balance Transfer Amount,2
+218,8351,26,LOL BT,Balance Transfer Amount,2
+300,8365,29,Promo BT,Balance Transfer Amount,2
+218,8345,24,Promo BT,Balance Transfer Amount,2
+104,8346,24,Promo CC,Convenience Check Amount,4
+228,8394,20,LOL CC,Convenience Check Amount,4
+228,8366,29,Promo CC,Convenience Check Amount,4
+228,8346,24,Promo CC,Convenience Check Amount,4
+218,8449,9,Promo BT,Balance Transfer Amount,2
+300,8345,24,Promo BT,Balance Transfer Amount,2
+228,8358,27,Promo CC,Convenience Check Amount,4
+106,2005,5,Purchase,Purchases,1
+104,3622,20,LOL CC,Convenience Check Amount,4
+228,8346,3,Convenience Check,Convenience Check Amount,4
+228,8334,3,Convenience Check,Convenience Check Amount,4
+101,8333,21,Purchase,Purchases,1
+102,8353,26,Cash Advance,Cash Advance Amount,3
+218,8377,32,Promo BT,Balance Transfer Amount,2
+228,8448,9,Promo CC,Convenience Check Amount,4
+218,8341,23,Promo BT,Balance Transfer Amount,2
+227,8350,25,Promo CC,Convenience Check Amount,4
+218,8373,31,Promo BT,Balance Transfer Amount,2
+104,8353,26,Promo CC,Convenience Check Amount,4
+218,8354,26,Promo CC,Convenience Check Amount,4
+228,3691,8,LOL CC,Convenience Check Amount,4
+228,3695,8,LOL CC,Convenience Check Amount,4
+300,3698,12,Promo BT,Balance Transfer Amount,2
+228,3699,8,LOL CC,Convenience Check Amount,4
+228,3714,12,Promo CC,Convenience Check Amount,4
+300,3696,8,LOL BT,Balance Transfer Amount,2
+228,3697,12,Promo CC,Convenience Check Amount,4
+228,3522,10,Promo CC,Convenience Check Amount,4
+104,4034,8,LOL CC,Convenience Check Amount,4
+228,3584,18,Promo CC,Convenience Check Amount,4
+104,3582,18,Promo CC,Convenience Check Amount,4
+300,3592,8,LOL BT,Balance Transfer Amount,2
+104,3587,9,Promo CC,Convenience Check Amount,4
+104,3595,8,LOL CC,Convenience Check Amount,4
+104,3597,8,LOL CC,Convenience Check Amount,4
+104,3603,8,LOL CC,Convenience Check Amount,4
+102,1028,15,Cash Advance,Cash Advance Amount,3
+161,1028,15,Cash Advance,Cash Advance Amount,3
+300,3573,20,LOL BT,Balance Transfer Amount,2
+300,3596,8,LOL BT,Balance Transfer Amount,2
+228,3599,9,LOL CC,Convenience Check Amount,4
+228,3568,20,LOL CC,Convenience Check Amount,4
+296,3596,8,LOL BT,Balance Transfer Amount,2
+104,3642,4,Promo CC,Convenience Check Amount,4
+296,3617,20,LOL BT,Balance Transfer Amount,2
+101,2015,5,Purchase,Purchases,1
+1006,2015,5,Purchase,Purchases,1
+228,3587,9,Promo CC,Convenience Check Amount,4
+218,3644,17,Promo BT,Balance Transfer Amount,2
+218,3646,17,Promo BT,Balance Transfer Amount,2
+218,3648,8,LOL BT,Balance Transfer Amount,2
+218,3650,8,LOL BT,Balance Transfer Amount,2
+218,3652,8,LOL BT,Balance Transfer Amount,2
+218,3655,8,LOL BT,Balance Transfer Amount,2
+218,3658,17,Promo BT,Balance Transfer Amount,2
+218,3660,17,Promo BT,Balance Transfer Amount,2
+1001,2004,5,Purchase,Purchases,1
+104,3651,8,LOL CC,Convenience Check Amount,4
+1006,2004,5,Purchase,Purchases,1
+104,3643,17,Promo CC,Convenience Check Amount,4
+104,3647,8,LOL CC,Convenience Check Amount,4
+104,3649,8,LOL CC,Convenience Check Amount,4
+104,3657,17,Promo CC,Convenience Check Amount,4
+228,3651,8,LOL CC,Convenience Check Amount,4
+300,3655,8,LOL BT,Balance Transfer Amount,2
+228,3643,17,Promo CC,Convenience Check Amount,4
+300,3646,17,Promo BT,Balance Transfer Amount,2
+1001,2009,5,Purchase,Purchases,1
+104,3666,20,LOL CC,Convenience Check Amount,4
+1027,1027,15,Cash Advance,Cash Advance Amount,3
+104,3662,19,Promo CC,Convenience Check Amount,4
+300,3665,20,LOL BT,Balance Transfer Amount,2
+104,3673,19,Promo CC,Convenience Check Amount,4
+104,3675,19,Promo CC,Convenience Check Amount,4
+104,3681,19,Promo CC,Convenience Check Amount,4
+1006,2009,5,Purchase,Purchases,1
+300,3680,19,Promo BT,Balance Transfer Amount,2
+296,3615,20,LOL BT,Balance Transfer Amount,2
+300,3674,19,Promo BT,Balance Transfer Amount,2
+320,3116,4,Promo BT,Balance Transfer Amount,2
+328,3118,4,Promo BT,Balance Transfer Amount,2
+328,3121,4,Promo BT,Balance Transfer Amount,2
+328,3123,4,Promo BT,Balance Transfer Amount,2
+104,3125,4,Promo CC,Convenience Check Amount,4
+104,3122,4,Promo CC,Convenience Check Amount,4
+104,3119,4,Promo CC,Convenience Check Amount,4
+104,3116,4,Promo CC,Convenience Check Amount,4
+112,3118,4,Promo CC,Convenience Check Amount,4
+112,3121,4,Promo CC,Convenience Check Amount,4
+112,3124,4,Promo CC,Convenience Check Amount,4
+227,3124,4,Promo CC,Convenience Check Amount,4
+227,3122,4,Promo CC,Convenience Check Amount,4
+227,3119,4,Promo CC,Convenience Check Amount,4
+227,3116,4,Promo CC,Convenience Check Amount,4
+228,3118,4,Promo CC,Convenience Check Amount,4
+228,3121,4,Promo CC,Convenience Check Amount,4
+228,3124,4,Promo CC,Convenience Check Amount,4
+228,3127,8,LOL CC,Convenience Check Amount,4
+228,3129,8,LOL CC,Convenience Check Amount,4
+227,3127,8,LOL CC,Convenience Check Amount,4
+112,3127,8,LOL CC,Convenience Check Amount,4
+104,3129,8,LOL CC,Convenience Check Amount,4
+104,3127,8,LOL CC,Convenience Check Amount,4
+328,3127,8,LOL BT,Balance Transfer Amount,2
+320,3129,8,LOL BT,Balance Transfer Amount,2
+320,3126,8,LOL BT,Balance Transfer Amount,2
+300,3128,8,LOL BT,Balance Transfer Amount,2
+296,3129,8,LOL BT,Balance Transfer Amount,2
+296,3126,8,LOL CC,Convenience Check Amount,4
+218,3128,8,LOL BT,Balance Transfer Amount,2
+218,3138,10,Promo BT,Balance Transfer Amount,2
+300,8377,32,Promo BT,Balance Transfer Amount,2
+104,8333,21,Promo CC,Convenience Check Amount,4
+228,8334,21,Promo CC,Convenience Check Amount,4
+101,2017,16,Purchase,Purchases,1
+106,2017,16,Purchase,Purchases,1
+130,2017,16,Purchase,Purchases,1
+106,2016,5,Purchase,Purchases,1
+109,2017,16,Purchase,Purchases,1
+218,8334,21,Promo CC,Convenience Check Amount,4
+218,8337,22,Promo BT,Balance Transfer Amount,2
+104,8345,24,Promo BT,Balance Transfer Amount,2
+104,8342,23,Promo CC,Convenience Check Amount,4
+101,8353,26,Purchase,Purchases,1
+130,2222,5,Purchase,Purchases,1
+138,8346,24,Promo CC,Convenience Check Amount,4
+296,8423,8,LOL BT,Balance Transfer Amount,2
+228,8349,25,Promo BT,Balance Transfer Amount,2
+104,8337,22,Promo BT,Balance Transfer Amount,2
+228,8350,21,Promo CC,Convenience Check Amount,4
+7146,2005,5,ON-US PURCHASE,Purchases,1
+7146,2010,5,ON-US PURCHASE,Purchases,1
+7146,1,1,ON-US PURCHASE,Purchases,1
+7155,1,1,ON-US PURCHASE,Purchases,1
+228,8334,25,Promo BT,Balance Transfer Amount,2
+300,2005,21,Promo BT,Balance Transfer Amount,2
+300,2016,21,Promo BT,Balance Transfer Amount,2
+1026,2018,16,Purchase,Purchases,1
+161,8333,21,Cash Advance,Cash Advance Amount,3
+163,8807,18,Purchase,Purchases,1
+130,2005,5,Purchase,Purchases,1
+106,2015,5,Purchase,Purchases,1
+132,2018,16,Purchase,Purchases,1
+101,8361,28,Promo BT,Balance Transfer Amount,2
+163,8362,28,Promo CC,Convenience Check Amount,4
+101,8373,31,Balance Transfer,Balance Transfer Amount,2
+3006,8350,5,Purchase,Purchases,1
+3036,2018,16,Purchase,Purchases,1
+3001,1,5,Purchase,Purchases,1
+7146,2003,5,ON-US PURCHASE,Purchases,1
+228,8334,28,Convenience Check,Convenience Check Amount,4
+300,8361,28,Promo BT,Balance Transfer Amount,2
+218,3691,8,Promo BT,Balance Transfer Amount,2
+218,8773,8,Promo BT,Balance Transfer Amount,2
+354,2222,5,Purchase,Purchases,1
+101,8352,26,LOL CC,Convenience Check Amount,4
+163,8351,26,Promo BT,Balance Transfer Amount,2
+104,8377,32,Promo BT,Balance Transfer Amount,2
+188,1,1,Purchase,Purchases,1
+102,2016,5,Cash Advance,Cash Advance Amount,3
+101,8351,26,LOL BT,Balance Transfer Amount,2
+404,8352,26,LOL CC,Convenience Check Amount,4
+218,8734,21,Promo BT,Balance Transfer Amount,2
+160,8351,26,Promo CC,Convenience Check Amount,4
+101,2010,5,Purchase,Purchases,1
+134,8377,32,Promo CC,Convenience Check Amount,4
+101,1009,4,Purchase,Purchases,1
+101,8362,28,Promo CC,Convenience Check Amount,4
+102,8357,27,Cash Advance,Cash Advance Amount,3
+300,8333,25,Balance Transfer,Balance Transfer Amount,2
+161,8334,21,Promo CC,Convenience Check Amount,4
+228,8362,28,Convenience Check,Convenience Check Amount,4
+104,8373,31,Promo BT,Balance Transfer Amount,2
+174,2,2,Cash Advance,Cash Advance Amount,3
+300,8734,21,Promo BT,Balance Transfer Amount,2
+300,8355,27,Promo BT,Balance Transfer Amount,2
+164,8350,25,Promo BT,Balance Transfer Amount,2
+7263,45,1,Purchase,Purchases,1
+300,9120,9,Promo BT,Balance Transfer Amount,2
+7240,45,1,Purchase,Purchases,1
+7267,45,1,Purchase,Purchases,1
+368,8334,21,Promo BT,Balance Transfer Amount,2
+218,3735,13,Promo BT,Balance Transfer Amount,2
+7155,2004,5,Purchase,Purchases,1
+218,8336,22,Promo BT,Balance Transfer Amount,2
+365,2018,16,Purchase,Purchases,1
+376,2018,16,Purchase,Purchases,1
+228,8807,18,Purchase,Purchases,1
+104,8807,18,Purchase,Purchases,1
+9501,2015,5,Purchase,Purchases,1
+7146,2015,5,ON-US PURCHASE,Purchases,1
+300,2005,25,Promo BT,Balance Transfer Amount,2
+174,2018,16,Purchase,Purchases,1
+174,4,2,Convenience Check,Convenience Check Amount,4
+104,8362,28,Promo BT,Balance Transfer Amount,2
+219,8362,28,Promo BT,Balance Transfer Amount,2
+296,8734,21,Promo BT,Balance Transfer Amount,2
+218,8743,21,Promo BT,Balance Transfer Amount,2
+7146,2007,5,ON-US PURCHASE,Purchases,1
+218,8795,8,Promo BT,Balance Transfer Amount,2
+105,8350,25,Promo BT,Balance Transfer Amount,2
+163,2018,16,Purchase,Purchases,1
+7146,2016,5,ON-US PURCHASE,Purchases,1
+218,8335,22,Promo BT,Balance Transfer Amount,2
+218,8759,20,Promo BT,Balance Transfer Amount,2
+133,1,21,Promo BT,Balance Transfer Amount,2
+300,8361,21,Promo BT,Balance Transfer Amount,2
+228,2016,5,Purchase,Purchases,1
+134,8734,21,Promo BT,Balance Transfer Amount,2
+219,8341,23,Promo BT,Balance Transfer Amount,2
+219,8349,25,Promo BT,Balance Transfer Amount,2
+7239,45,1,Purchase,Purchases,1
+102,8377,32,Promo CC,Convenience Check Amount,4
+218,2007,5,Purchase,Purchases,1
+164,8373,31,Promo BT,Balance Transfer Amount,2
+7146,8334,21,ON-US PURCHASE,Purchases,1
+133,1,25,Promo BT,Balance Transfer Amount,2
+300,8349,31,Promo BT,Balance Transfer Amount,2
+7146,8333,21,ON-US PURCHASE,Purchases,1
+218,3524,20,LOL BT,Balance Transfer Amount,2
+101,8346,24,Promo BT,Balance Transfer Amount,2
+104,2015,5,Purchase,Purchases,1
+218,2015,5,Purchase,Purchases,1
+160,3693,12,Purchase,Purchases,1
+163,8374,25,Promo BT,Balance Transfer Amount,2
+228,8342,21,Promo BT,Balance Transfer Amount,2
+228,8374,3,Promo CC,Convenience Check Amount,4
+218,8339,23,Balance Transfer,Balance Transfer Amount,2
+101,1000,1,Purchase,Purchases,1
+300,8333,28,Promo BT,Balance Transfer Amount,2
+102,2015,5,Purchase,Purchases,1
+228,8334,31,Promo BT,Balance Transfer Amount,2
+164,8734,21,Promo BT,Balance Transfer Amount,2
+300,2016,5,Purchase,Purchases,1
+300,8349,21,Promo BT,Balance Transfer Amount,2
+218,8374,31,Promo BT,Balance Transfer Amount,2
+160,2016,21,Purchase,Purchases,1
+3036,2015,5,Purchase,Purchases,1
+228,3014,4,Promo CC,Convenience Check Amount,4
+300,3017,4,Promo BT,Balance Transfer Amount,2
+104,3019,8,LOL CC,Convenience Check Amount,4
+160,3008,5,Purchase,Purchases,1
+101,3008,5,Purchase,Purchases,1
+227,3014,4,Promo CC,Convenience Check Amount,4
+300,3016,4,Promo BT,Balance Transfer Amount,2
+325,24,6,Purchase,Purchases,1
+328,3019,8,LOL BT,Balance Transfer Amount,2
+104,3014,4,Promo CC,Convenience Check Amount,4
+218,3017,4,Promo BT,Balance Transfer Amount,2
+218,3016,4,Promo BT,Balance Transfer Amount,2
+160,3006,5,Purchase,Purchases,1
+104,3013,4,Promo CC,Convenience Check Amount,4
+104,3012,4,Promo CC,Convenience Check Amount,4
+218,3015,4,Promo BT,Balance Transfer Amount,2
+3038,3000,2,Cash Advance,Cash Advance Amount,3
+296,3017,4,Promo BT,Balance Transfer Amount,2
+3031,3010,5,Purchase,Purchases,1
+130,3006,5,Purchase,Purchases,1
+300,3015,4,Promo BT,Balance Transfer Amount,2
+228,3013,4,Promo CC,Convenience Check Amount,4
+112,3012,4,Promo CC,Convenience Check Amount,4
+296,3015,4,Promo BT,Balance Transfer Amount,2
+3031,3006,5,Purchase,Purchases,1
+228,3012,4,Promo CC,Convenience Check Amount,4
+223,5,3,Balance Transfer,Balance Transfer Amount,2
+296,3051,4,Promo BT,Balance Transfer Amount,2
+102,2,2,Cash Advance,Cash Advance Amount,3
+101,3113,1,Purchase,Purchases,1
+107,2,2,Cash Advance,Cash Advance Amount,3
+3001,3115,1,Purchase,Purchases,1
+218,3116,4,Promo BT,Balance Transfer Amount,2
+218,3117,4,Promo BT,Balance Transfer Amount,2
+218,3118,4,Promo BT,Balance Transfer Amount,2
+218,3119,4,Promo BT,Balance Transfer Amount,2
+218,3120,4,Promo BT,Balance Transfer Amount,2
+218,3121,4,Promo BT,Balance Transfer Amount,2
+218,3122,4,Promo BT,Balance Transfer Amount,2
+218,3123,4,Promo BT,Balance Transfer Amount,2
+218,3125,4,Promo BT,Balance Transfer Amount,2
+296,3125,4,Promo BT,Balance Transfer Amount,2
+296,3124,4,Promo BT,Balance Transfer Amount,2
+296,3123,4,Promo BT,Balance Transfer Amount,2
+296,3122,4,Promo BT,Balance Transfer Amount,2
+296,3121,4,Promo BT,Balance Transfer Amount,2
+296,3120,4,Promo BT,Balance Transfer Amount,2
+296,3119,4,Promo BT,Balance Transfer Amount,2
+296,3118,4,Promo BT,Balance Transfer Amount,2
+296,3117,4,Promo BT,Balance Transfer Amount,2
+296,3116,4,Promo BT,Balance Transfer Amount,2
+300,3116,4,Promo BT,Balance Transfer Amount,2
+300,3117,4,Promo BT,Balance Transfer Amount,2
+300,3118,4,Promo BT,Balance Transfer Amount,2
+300,3121,4,Promo BT,Balance Transfer Amount,2
+300,3122,4,Promo BT,Balance Transfer Amount,2
+300,3124,4,Promo BT,Balance Transfer Amount,2
+300,3125,4,Promo BT,Balance Transfer Amount,2
+320,3124,4,Promo BT,Balance Transfer Amount,2
+320,3123,4,Promo BT,Balance Transfer Amount,2
+320,3121,4,Promo BT,Balance Transfer Amount,2
+320,3120,4,Promo BT,Balance Transfer Amount,2
+320,3118,4,Promo BT,Balance Transfer Amount,2
+320,3117,4,Promo BT,Balance Transfer Amount,2
+328,3116,4,Promo BT,Balance Transfer Amount,2
+328,3117,4,Promo BT,Balance Transfer Amount,2
+328,3119,4,Promo BT,Balance Transfer Amount,2
+328,3120,4,Promo BT,Balance Transfer Amount,2
+328,3122,4,Promo BT,Balance Transfer Amount,2
+328,3124,4,Promo BT,Balance Transfer Amount,2
+328,3125,4,Promo BT,Balance Transfer Amount,2
+104,3124,4,Promo CC,Convenience Check Amount,4
+104,3123,4,Promo CC,Convenience Check Amount,4
+104,3121,4,Promo CC,Convenience Check Amount,4
+104,3120,4,Promo CC,Convenience Check Amount,4
+104,3118,4,Promo CC,Convenience Check Amount,4
+104,3117,4,Promo CC,Convenience Check Amount,4
+112,3116,4,Promo CC,Convenience Check Amount,4
+112,3117,4,Promo CC,Convenience Check Amount,4
+112,3119,4,Promo CC,Convenience Check Amount,4
+112,3120,4,Promo CC,Convenience Check Amount,4
+112,3122,4,Promo CC,Convenience Check Amount,4
+112,3123,4,Promo CC,Convenience Check Amount,4
+112,3125,4,Promo CC,Convenience Check Amount,4
+227,3125,4,Promo CC,Convenience Check Amount,4
+227,3123,4,Promo CC,Convenience Check Amount,4
+227,3121,4,Promo CC,Convenience Check Amount,4
+227,3120,4,Promo CC,Convenience Check Amount,4
+227,3118,4,Promo CC,Convenience Check Amount,4
+227,3117,4,Promo CC,Convenience Check Amount,4
+228,3116,4,Promo CC,Convenience Check Amount,4
+228,3117,4,Promo CC,Convenience Check Amount,4
+228,3119,4,Promo CC,Convenience Check Amount,4
+228,3120,4,Promo CC,Convenience Check Amount,4
+228,3122,4,Promo CC,Convenience Check Amount,4
+228,3123,4,Promo CC,Convenience Check Amount,4
+228,3125,4,Promo CC,Convenience Check Amount,4
+228,3126,8,LOL CC,Convenience Check Amount,4
+228,3128,8,LOL CC,Convenience Check Amount,4
+227,3129,8,LOL CC,Convenience Check Amount,4
+227,3128,8,LOL CC,Convenience Check Amount,4
+112,3126,8,LOL CC,Convenience Check Amount,4
+112,3129,8,LOL CC,Convenience Check Amount,4
+104,3128,8,LOL CC,Convenience Check Amount,4
+104,3126,8,LOL CC,Convenience Check Amount,4
+328,3126,8,LOL BT,Balance Transfer Amount,2
+328,3129,8,LOL BT,Balance Transfer Amount,2
+320,3128,8,LOL BT,Balance Transfer Amount,2
+300,3126,8,LOL BT,Balance Transfer Amount,2
+300,3127,8,LOL BT,Balance Transfer Amount,2
+300,3129,8,LOL BT,Balance Transfer Amount,2
+296,3128,8,LOL CC,Convenience Check Amount,4
+296,3127,8,LOL BT,Balance Transfer Amount,2
+218,3126,8,LOL BT,Balance Transfer Amount,2
+218,3127,8,LOL BT,Balance Transfer Amount,2
+218,3129,8,LOL BT,Balance Transfer Amount,2
+228,3111,8,LOL CC,Convenience Check Amount,4
+228,3105,12,Promo CC,Convenience Check Amount,4
+3032,2,2,Cash Advance,Cash Advance Amount,3
+228,4023,8,LOL CC,Convenience Check Amount,4
+227,3018,8,LOL CC,Convenience Check Amount,4
+3006,3113,1,Purchase,Purchases,1
+320,3005,3,Balance Transfer,Balance Transfer Amount,2
+218,3136,10,Promo BT,Balance Transfer Amount,2
+218,3146,13,Promo BT,Balance Transfer Amount,2
+218,3142,10,Promo BT,Balance Transfer Amount,2
+218,3144,13,Promo BT,Balance Transfer Amount,2
+218,3150,8,LOL BT,Balance Transfer Amount,2
+106,4021,5,Purchase,Purchases,1
+218,3140,10,Promo BT,Balance Transfer Amount,2
+3001,4021,5,Purchase,Purchases,1
+104,3011,4,Promo CC,Convenience Check Amount,4
+3031,3084,5,Purchase,Purchases,1
+104,3130,3,Convenience Check,Convenience Check Amount,4
+3001,2228,1,Purchase,Purchases,1
+3006,2228,1,Purchase,Purchases,1
+104,3135,10,Promo CC,Convenience Check Amount,4
+104,3137,10,Promo CC,Convenience Check Amount,4
+104,3139,10,Promo CC,Convenience Check Amount,4
+104,3147,13,Promo CC,Convenience Check Amount,4
+104,3149,8,LOL CC,Convenience Check Amount,4
+104,3141,3,Convenience Check,Convenience Check Amount,4
+104,3151,4,Promo CC,Convenience Check Amount,4
+104,3012,14,Promo CC,Convenience Check Amount,4
+3006,4021,5,Purchase,Purchases,1
+218,3142,3,Balance Transfer,Balance Transfer Amount,2
+218,3134,4,Promo BT,Balance Transfer Amount,2
+218,3152,4,Promo BT,Balance Transfer Amount,2
+218,3131,3,Balance Transfer,Balance Transfer Amount,2
+131,2,2,Cash Advance,Cash Advance Amount,3
+101,4021,5,Purchase,Purchases,1
+160,4021,5,Purchase,Purchases,1
+228,3052,8,LOL CC,Convenience Check Amount,4
+300,3138,10,Promo BT,Balance Transfer Amount,2
+300,3131,3,Balance Transfer,Balance Transfer Amount,2
+300,3146,13,Promo BT,Balance Transfer Amount,2
+163,8326,28,Promo CC,Convenience Check Amount,4
+101,8326,28,Promo CC,Convenience Check Amount,4
+228,8326,28,Convenience Check,Convenience Check Amount,4
+104,8326,28,Promo BT,Balance Transfer Amount,2
+219,8326,28,Promo BT,Balance Transfer Amount,2
