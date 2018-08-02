@@ -1,0 +1,723 @@
+﻿tran_code,tran_cat_code,tran_terms_bal,Tran_Group
+160,3001,1,Purchases
+228,3560,14,Convenience Check Amount
+105,1026,2,Cash Advance Amount
+239,1026,2,Cash Advance Amount
+1002,1027,15,Cash Advance Amount
+105,1027,15,Cash Advance Amount
+239,1027,15,Cash Advance Amount
+160,3220,16,Purchases
+3006,3115,1,Purchases
+101,3115,1,Purchases
+160,2003,5,Purchases
+218,3244,3,Balance Transfer Amount
+228,3012,14,Convenience Check Amount
+3036,2228,1,Purchases
+104,3243,3,Convenience Check Amount
+101,2003,5,Purchases
+239,1020,15,Cash Advance Amount
+354,2228,1,Purchases
+354,2,2,Purchases
+354,4021,5,Purchases
+1025,2228,1,Purchases
+3031,2003,5,Purchases
+3036,2003,5,Purchases
+104,3254,3,Convenience Check Amount
+218,3255,3,Balance Transfer Amount
+1026,2228,1,Purchases
+104,3245,3,Convenience Check Amount
+1002,1021,15,Cash Advance Amount
+3031,3220,16,Purchases
+109,2003,5,Purchases
+1002,1024,15,Cash Advance Amount
+105,3269,17,Cash Advance Amount
+300,3255,3,Balance Transfer Amount
+300,2003,3,Balance Transfer Amount
+3001,2004,5,Purchases
+219,5,3,Convenience Check Amount
+228,3245,3,Convenience Check Amount
+3006,2006,5,Purchases
+101,2004,5,Purchases
+354,3,2,Purchases
+354,2226,1,Purchases
+3001,2014,1,Purchases
+3001,2007,5,Purchases
+3006,2007,5,Purchases
+9501,1,1,Purchases
+9503,3,2,Cash Advance Amount
+160,3115,1,Purchases
+9506,1,1,Purchases
+9521,3,2,Cash Advance Amount
+101,2007,5,Purchases
+101,400,1001,Purchases
+3001,400,1001,Purchases
+106,400,1001,Purchases
+3006,400,1001,Purchases
+101,1,1024,Purchases
+106,1,1024,Purchases
+101,1,1025,Purchases
+106,1,1025,Purchases
+1006,400,1001,Purchases
+1001,550,1001,Purchases
+3008,454,1005,Cash Advance Amount
+3005,454,1005,Cash Advance Amount
+3001,550,1001,Purchases
+1003,454,1005,Cash Advance Amount
+3006,550,1001,Purchases
+102,8345,24,Cash Advance Amount
+160,550,1001,Purchases
+101,550,1001,Purchases
+130,2016,5,Purchases
+218,2016,5,Purchases
+104,2004,5,Purchases
+219,8501,2,Cash Advance Amount
+303,452,1003,Balance Transfer Amount
+492,400,1001,Purchases
+299,402,1003,Balance Transfer Amount
+101,3001,1,Purchases
+138,2005,5,Purchases
+101,3005,3,Purchases
+1001,2017,16,Purchases
+101,2016,5,Purchases
+1001,2016,5,Purchases
+1006,2017,16,Purchases
+160,2016,5,Purchases
+1006,2016,5,Purchases
+160,2017,16,Purchases
+1026,8802,16,Purchases
+228,8342,3,Convenience Check Amount
+300,2005,5,Purchases
+187,1,1,Purchases
+102,3030,3,Cash Advance Amount
+101,3030,3,Purchases
+160,400,1001,Purchases
+107,1027,15,Cash Advance Amount
+1001,400,1001,Purchases
+101,1,1021,Purchases
+106,1,1021,Purchases
+130,400,1001,Purchases
+3031,400,1001,Purchases
+106,1,1029,Purchases
+101,1,1026,Purchases
+1025,400,1001,Purchases
+106,1,1026,Purchases
+101,1,1029,Purchases
+106,1,1023,Purchases
+239,454,1005,Cash Advance Amount
+101,1,1023,Purchases
+101,1,1002,Purchases
+106,1,1002,Purchases
+160,1027,15,Purchases
+160,8334,5,Purchases
+138,2016,5,Purchases
+104,2016,5,Purchases
+218,1,1,Purchases
+104,2010,5,Purchases
+104,2009,5,Purchases
+102,2005,5,Cash Advance Amount
+299,404,1005,Cash Advance Amount
+160,8333,5,Purchases
+160,8346,5,Purchases
+1006,8333,5,Purchases
+106,1,1027,Purchases
+101,1,1027,Purchases
+1002,454,1005,Cash Advance Amount
+107,671,15,Cash Advance Amount
+1006,8334,5,Purchases
+102,454,1005,Cash Advance Amount
+101,8345,24,Purchases
+1006,8345,5,Purchases
+325,405,1006,Purchases
+9506,400,1001,Purchases
+9501,400,1001,Purchases
+1026,2015,5,Purchases
+1003,3,15,Cash Advance Amount
+1002,2,15,Cash Advance Amount
+101,8334,21,Purchases
+298,400,1001,Purchases
+299,400,1001,Purchases
+160,8334,21,Purchases
+160,8333,21,Purchases
+1001,2018,16,Purchases
+3006,2018,16,Purchases
+3001,2018,16,Purchases
+1006,2018,16,Purchases
+101,2018,16,Purchases
+160,2018,16,Purchases
+107,2018,15,Cash Advance Amount
+1001,1,5,Purchases
+3006,8334,16,Purchases
+3006,8333,16,Purchases
+101,1,5,Purchases
+300,8333,3,Balance Transfer Amount
+9506,2018,16,Purchases
+9501,2018,16,Purchases
+1006,2018,5,Purchases
+3001,1,16,Purchases
+1006,8334,16,Purchases
+101,1,16,Purchases
+1006,8349,16,Purchases
+1006,8349,5,Purchases
+106,2018,16,Purchases
+1001,1,16,Purchases
+1006,8366,5,Purchases
+130,2018,16,Purchases
+3031,2018,16,Purchases
+375,2018,16,Purchases
+1025,2018,16,Purchases
+160,3050,4,Purchases
+102,8334,21,Cash Advance Amount
+3006,8334,5,Purchases
+160,2005,4,Purchases
+101,3051,4,Purchases
+102,8349,25,Cash Advance Amount
+219,2016,5,Purchases
+219,2005,5,Purchases
+160,8350,5,Purchases
+160,3051,4,Purchases
+106,2018,5,Purchases
+102,8333,21,Cash Advance Amount
+101,8350,25,Purchases
+130,3001,1,Purchases
+101,8349,25,Purchases
+3001,2016,5,Purchases
+222,8501,2,Cash Advance Amount
+480,1,1,Purchases
+813,1,1,Purchases
+138,24,6,Purchases
+168,24,6,Purchases
+831,1,1,Purchases
+370,1,1,Purchases
+368,22,1,Purchases
+9523,45,1,Purchases
+9524,45,1,Purchases
+3031,2015,5,Purchases
+160,2016,1,Purchases
+3006,2016,5,Purchases
+102,8365,29,Cash Advance Amount
+1006,8350,5,Purchases
+101,8358,27,Purchases
+1006,8373,5,Purchases
+3006,8333,5,Purchases
+101,8341,23,Purchases
+101,8365,29,Purchases
+101,8366,29,Purchases
+101,8342,23,Purchases
+101,8357,27,Purchases
+101,8374,31,Purchases
+102,8370,30,Cash Advance Amount
+160,8357,27,Purchases
+3006,2224,1,Purchases
+218,3181,3,Balance Transfer Amount
+3001,3220,16,Purchases
+130,2228,1,Purchases
+160,8803,16,Purchases
+1025,8803,16,Purchases
+3036,8803,16,Purchases
+101,3415,16,Purchases
+3036,8802,16,Purchases
+1001,2005,5,Purchases
+1006,2005,5,Purchases
+1025,2015,5,Purchases
+101,2005,5,Purchases
+160,2005,5,Purchases
+218,2005,5,Purchases
+375,22,1,Purchases
+376,22,1,Purchases
+228,8350,3,Convenience Check Amount
+228,8737,14,Convenience Check Amount
+228,8354,3,Convenience Check Amount
+228,8358,3,Convenience Check Amount
+104,2003,5,Purchases
+104,2005,5,Purchases
+104,3134,3,Convenience Check Amount
+228,3050,3,Convenience Check Amount
+354,3001,1,Purchases
+1006,3358,10,Purchases
+3001,3358,10,Purchases
+160,3358,10,Purchases
+101,3358,10,Purchases
+1025,3358,10,Purchases
+3036,3358,10,Purchases
+3031,3358,10,Purchases
+1001,3358,16,Purchases
+1006,3358,16,Purchases
+1025,3358,16,Purchases
+3006,3358,16,Purchases
+101,3358,16,Purchases
+354,3358,16,Purchases
+3031,3358,16,Purchases
+131,1019,15,Cash Advance Amount
+106,3358,16,Purchases
+130,3358,16,Purchases
+3001,2009,5,Purchases
+3006,2009,5,Purchases
+109,2009,5,Purchases
+160,2006,5,Purchases
+161,1019,15,Cash Advance Amount
+1002,1025,2,Cash Advance Amount
+1003,1026,2,Cash Advance Amount
+1028,1026,2,Cash Advance Amount
+101,1028,15,Purchases
+3001,3632,16,Purchases
+1001,3633,16,Purchases
+3001,3633,16,Purchases
+101,3632,16,Purchases
+160,3632,16,Purchases
+101,3633,16,Purchases
+160,3633,16,Purchases
+160,2015,5,Purchases
+1025,3633,16,Purchases
+130,2224,1,Purchases
+101,3220,16,Purchases
+1028,3,2,Cash Advance Amount
+218,3289,3,Balance Transfer Amount
+160,2224,1,Purchases
+106,2003,5,Purchases
+3006,2004,5,Purchases
+3001,2223,1,Purchases
+3001,2006,5,Purchases
+218,3318,3,Balance Transfer Amount
+300,3318,3,Balance Transfer Amount
+1001,3358,10,Purchases
+3006,3358,10,Purchases
+3001,3358,16,Purchases
+160,3358,16,Purchases
+101,1,1,Purchases
+218,3415,16,Balance Transfer Amount
+227,4100,3,Convenience Check Amount
+101,2003,1,Purchases
+1003,1026,15,Cash Advance Amount
+1002,1025,15,Cash Advance Amount
+105,1026,15,Cash Advance Amount
+1001,2003,5,Purchases
+1006,2003,5,Purchases
+218,2003,3,Balance Transfer Amount
+161,1025,15,Cash Advance Amount
+376,2225,1,Purchases
+300,3160,3,Balance Transfer Amount
+300,3244,3,Balance Transfer Amount
+1001,4021,5,Purchases
+3001,2227,1,Purchases
+3006,2227,1,Purchases
+160,2228,1,Purchases
+160,2227,1,Purchases
+1006,4021,5,Purchases
+228,3159,3,Convenience Check Amount
+1003,1020,15,Cash Advance Amount
+1002,1019,15,Cash Advance Amount
+3002,1019,15,Cash Advance Amount
+3005,1020,15,Cash Advance Amount
+3038,2,2,Cash Advance Amount
+3001,3172,16,Purchases
+218,3170,3,Balance Transfer Amount
+101,2227,1,Purchases
+101,2228,1,Purchases
+106,2228,1,Purchases
+3031,2228,1,Purchases
+3006,3172,16,Purchases
+102,1019,15,Cash Advance Amount
+101,3172,16,Purchases
+104,3030,3,Convenience Check Amount
+3002,1021,15,Cash Advance Amount
+1001,3172,16,Purchases
+1006,3172,16,Purchases
+104,3169,3,Convenience Check Amount
+106,3172,16,Purchases
+160,3172,16,Purchases
+296,3131,3,Balance Transfer Amount
+354,15,1,Purchases
+3031,1024,5,Purchases
+3031,3172,16,Purchases
+3036,3172,16,Purchases
+228,3130,3,Convenience Check Amount
+3031,2226,1,Purchases
+1001,2224,1,Purchases
+1006,2224,1,Purchases
+3001,2224,1,Purchases
+130,3172,16,Purchases
+3031,4021,5,Purchases
+104,3180,3,Convenience Check Amount
+3006,3220,16,Purchases
+1001,2228,1,Purchases
+1006,2228,1,Purchases
+3001,2003,5,Purchases
+3006,2003,5,Purchases
+106,2224,1,Purchases
+105,3,2,Cash Advance Amount
+104,4,2,Convenience Check Amount
+101,1024,5,Purchases
+101,2225,1,Purchases
+101,2226,1,Purchases
+101,3006,5,Purchases
+101,3010,5,Purchases
+101,3084,11,Purchases
+102,3000,2,Cash Advance Amount
+106,1024,5,Purchases
+160,1024,5,Purchases
+160,2226,1,Purchases
+1001,1,1,Purchases
+1006,1,1,Purchases
+1025,1,1,Purchases
+1026,1,1,Purchases
+3001,1,1,Purchases
+3006,1,1,Purchases
+3031,1,1,Purchases
+3036,1,1,Purchases
+107,3000,2,Cash Advance Amount
+131,1,1,Cash Advance Amount
+161,3000,2,Cash Advance Amount
+239,3,2,Cash Advance Amount
+1002,1,1,Cash Advance Amount
+1003,1,1,Cash Advance Amount
+1027,1,1,Cash Advance Amount
+3002,1,1,Cash Advance Amount
+3005,1,1,Cash Advance Amount
+3008,1,1,Cash Advance Amount
+3032,1,1,Cash Advance Amount
+3035,1,1,Cash Advance Amount
+218,2229,3,Balance Transfer Amount
+218,3005,3,Balance Transfer Amount
+296,1,1,Balance Transfer Amount
+300,2229,3,Balance Transfer Amount
+300,3005,3,Balance Transfer Amount
+328,1,1,Balance Transfer Amount
+104,4100,3,Convenience Check Amount
+112,1,1,Convenience Check Amount
+227,1,1,Convenience Check Amount
+228,4,2,Convenience Check Amount
+354,1,1,Purchases
+106,1,1,Purchases
+160,1,1,Purchases
+3001,2222,5,Purchases
+3002,3000,2,Cash Advance Amount
+1003,3,2,Cash Advance Amount
+328,3004,3,Balance Transfer Amount
+3008,3000,2,Cash Advance Amount
+296,2229,3,Balance Transfer Amount
+106,2222,5,Purchases
+3005,3,2,Cash Advance Amount
+1027,3000,2,Cash Advance Amount
+101,4,2,Purchases
+101,31,3,Purchases
+1002,3000,2,Cash Advance Amount
+3001,2226,1,Purchases
+3001,3010,5,Purchases
+3006,3010,5,Purchases
+3001,3008,5,Purchases
+101,2222,5,Purchases
+1001,1024,5,Purchases
+3006,1024,5,Purchases
+3001,1024,5,Purchases
+160,3010,5,Purchases
+3006,2226,1,Purchases
+3001,3084,5,Purchases
+1001,3084,5,Purchases
+160,3084,5,Purchases
+296,3005,3,Balance Transfer Amount
+228,4100,3,Convenience Check Amount
+1006,2226,1,Purchases
+1006,3084,5,Purchases
+238,3,2,Cash Advance Amount
+1001,3008,5,Purchases
+1006,3008,5,Purchases
+3006,3008,5,Purchases
+3006,3006,5,Purchases
+218,31,3,Balance Transfer Amount
+1025,2226,1,Purchases
+3032,3000,2,Cash Advance Amount
+300,31,3,Balance Transfer Amount
+1006,2225,1,Purchases
+1001,2225,1,Purchases
+328,3005,3,Balance Transfer Amount
+296,31,3,Balance Transfer Amount
+227,4,2,Convenience Check Amount
+324,24,6,Purchases
+106,3010,5,Purchases
+3031,3008,5,Purchases
+296,3051,3,Balance Transfer Amount
+131,3000,2,Cash Advance Amount
+1001,2222,5,Purchases
+1006,2222,5,Purchases
+3006,2222,5,Purchases
+130,2226,1,Purchases
+106,3084,5,Purchases
+3002,2,2,Cash Advance Amount
+161,2,2,Cash Advance Amount
+1027,2,2,Cash Advance Amount
+1006,3006,5,Purchases
+1025,3084,5,Purchases
+1006,3010,5,Purchases
+3001,3084,11,Purchases
+1001,3084,11,Purchases
+3006,3084,11,Purchases
+106,2225,1,Purchases
+160,2225,1,Purchases
+130,2225,1,Purchases
+3031,3115,1,Purchases
+3036,3115,1,Purchases
+1028,1027,15,Cash Advance Amount
+109,1028,15,Cash Advance Amount
+3001,2015,5,Purchases
+3031,3632,16,Purchases
+3031,3633,16,Purchases
+106,3633,16,Purchases
+130,3633,16,Purchases
+1001,2015,5,Purchases
+375,1,1,Purchases
+376,1,1,Purchases
+130,2015,5,Purchases
+1006,1024,5,Purchases
+1001,3010,5,Purchases
+1001,2226,1,Purchases
+3006,3084,5,Purchases
+101,3084,5,Purchases
+109,1,1,Purchases
+1001,3006,5,Purchases
+3001,3006,5,Purchases
+112,4,2,Convenience Check Amount
+106,2226,1,Purchases
+227,1,3,Convenience Check Amount
+3035,3,2,Cash Advance Amount
+160,2222,5,Purchases
+3001,3113,1,Purchases
+1002,2,2,Cash Advance Amount
+1001,3113,1,Purchases
+300,3715,3,Balance Transfer Amount
+9502,2,2,Cash Advance Amount
+102,1027,15,Cash Advance Amount
+161,1027,15,Cash Advance Amount
+104,3159,3,Convenience Check Amount
+218,3715,3,Balance Transfer Amount
+218,3160,3,Balance Transfer Amount
+218,3260,3,Balance Transfer Amount
+104,4210,3,Convenience Check Amount
+102,3,2,Cash Advance Amount
+106,3632,16,Purchases
+130,3632,16,Purchases
+300,2004,3,Balance Transfer Amount
+300,402,1003,Balance Transfer Amount
+138,2004,5,Purchases
+223,8501,2,Cash Advance Amount
+9501,8803,16,Purchases
+138,1,1,Purchases
+5601,1,1,Purchases
+5602,2,2,Cash Advance Amount
+5606,1,1,Purchases
+101,8344,24,Purchases
+160,8349,5,Purchases
+160,2010,5,Purchases
+1001,3684,12,Purchases
+1006,2007,5,Purchases
+160,8341,23,Purchases
+1003,3682,2,Cash Advance Amount
+3008,3682,2,Cash Advance Amount
+218,2004,3,Balance Transfer Amount
+160,2004,5,Purchases
+328,31,3,Balance Transfer Amount
+300,2004,5,Purchases
+218,2222,5,Purchases
+218,2030,3,Balance Transfer Amount
+101,8337,22,Purchases
+106,3050,5,Purchases
+160,8345,5,Purchases
+101,8332,21,Purchases
+101,8338,22,Purchases
+375,4,2,Balance Transfer Amount
+376,4,2,Balance Transfer Amount
+3006,8734,5,Purchases
+101,8359,28,Purchases
+101,8377,32,Purchases
+1006,8374,5,Purchases
+160,3051,5,Purchases
+160,8339,5,Purchases
+160,8377,32,Purchases
+106,8334,5,Purchases
+106,2004,5,Purchases
+160,8734,5,Purchases
+106,8333,5,Purchases
+106,2010,5,Purchases
+3006,8332,5,Purchases
+3006,8361,5,Purchases
+218,8358,27,Balance Transfer Amount
+354,1000,1,Purchases
+228,8374,21,Balance Transfer Amount
+354,20,6,Purchases
+101,8335,22,Balance Transfer Amount
+1006,8332,5,Purchases
+106,8338,22,Purchases
+176,21,4,Convenience Check Amount
+101,2009,5,Purchases
+160,2009,5,Purchases
+218,2003,5,Purchases
+130,2003,5,Purchases
+130,1,1,Purchases
+110,2,2,Cash Advance Amount
+1003,1027,15,Cash Advance Amount
+107,1028,15,Cash Advance Amount
+101,2009,1,Purchases
+131,1028,15,Cash Advance Amount
+130,3115,1,Purchases
+101,2004,1,Purchases
+101,2007,1,Purchases
+1001,3632,16,Purchases
+1006,3632,16,Purchases
+3006,3632,16,Purchases
+1006,3633,16,Purchases
+3006,3633,16,Purchases
+3008,2,2,Cash Advance Amount
+3006,2015,5,Purchases
+293,2,2,Cash Advance Amount
+378,2,2,Cash Advance Amount
+238,1028,15,Cash Advance Amount
+1001,2010,5,Purchases
+1006,2010,5,Purchases
+101,3114,5,Purchases
+3036,2226,1,Purchases
+102,1025,15,Cash Advance Amount
+1028,1026,15,Cash Advance Amount
+239,1026,15,Cash Advance Amount
+1026,2003,5,Purchases
+160,2007,5,Purchases
+3001,8803,16,Purchases
+3006,8802,16,Purchases
+1001,8802,16,Purchases
+101,8803,16,Purchases
+3001,8802,16,Purchases
+3006,8803,16,Purchases
+1006,8802,16,Purchases
+1001,8803,16,Purchases
+101,8802,16,Purchases
+1006,8803,16,Purchases
+160,8802,16,Purchases
+3031,8802,16,Purchases
+106,8803,16,Purchases
+130,8803,16,Purchases
+106,8802,16,Purchases
+130,8802,16,Purchases
+3031,8803,16,Purchases
+1025,8802,16,Purchases
+228,8747,14,Convenience Check Amount
+228,8761,14,Convenience Check Amount
+218,2004,5,Purchases
+228,8731,14,Convenience Check Amount
+228,8753,14,Convenience Check Amount
+228,4210,3,Convenience Check Amount
+228,8733,14,Convenience Check Amount
+101,3050,4,Purchases
+106,2005,5,Purchases
+228,8346,3,Convenience Check Amount
+228,8334,3,Convenience Check Amount
+101,8333,21,Purchases
+102,8353,26,Cash Advance Amount
+102,1028,15,Cash Advance Amount
+161,1028,15,Cash Advance Amount
+101,2015,5,Purchases
+1006,2015,5,Purchases
+1001,2004,5,Purchases
+1006,2004,5,Purchases
+1001,2009,5,Purchases
+1027,1027,15,Cash Advance Amount
+1006,2009,5,Purchases
+101,2017,16,Purchases
+106,2017,16,Purchases
+130,2017,16,Purchases
+106,2016,5,Purchases
+109,2017,16,Purchases
+101,8353,26,Purchases
+130,2222,5,Purchases
+1026,2018,16,Purchases
+161,8333,21,Cash Advance Amount
+163,8807,18,Purchases
+130,2005,5,Purchases
+106,2015,5,Purchases
+132,2018,16,Purchases
+101,8373,31,Balance Transfer Amount
+3006,8350,5,Purchases
+3036,2018,16,Purchases
+3001,1,5,Purchases
+228,8334,28,Convenience Check Amount
+354,2222,5,Purchases
+188,1,1,Purchases
+102,2016,5,Cash Advance Amount
+101,2010,5,Purchases
+101,1009,4,Purchases
+102,8357,27,Cash Advance Amount
+300,8333,25,Balance Transfer Amount
+228,8362,28,Convenience Check Amount
+174,2,2,Cash Advance Amount
+7263,45,1,Purchases
+7240,45,1,Purchases
+7267,45,1,Purchases
+7155,2004,5,Purchases
+365,2018,16,Purchases
+376,2018,16,Purchases
+228,8807,18,Purchases
+104,8807,18,Purchases
+9501,2015,5,Purchases
+174,2018,16,Purchases
+174,4,2,Convenience Check Amount
+163,2018,16,Purchases
+228,2016,5,Purchases
+7239,45,1,Purchases
+218,2007,5,Purchases
+104,2015,5,Purchases
+218,2015,5,Purchases
+160,3693,12,Purchases
+218,8339,23,Balance Transfer Amount
+101,1000,1,Purchases
+102,2015,5,Purchases
+300,2016,5,Purchases
+160,2016,21,Purchases
+3036,2015,5,Purchases
+160,3008,5,Purchases
+101,3008,5,Purchases
+325,24,6,Purchases
+160,3006,5,Purchases
+3038,3000,2,Cash Advance Amount
+3031,3010,5,Purchases
+130,3006,5,Purchases
+3031,3006,5,Purchases
+223,5,3,Balance Transfer Amount
+102,2,2,Cash Advance Amount
+101,3113,1,Purchases
+107,2,2,Cash Advance Amount
+3001,3115,1,Purchases
+3032,2,2,Cash Advance Amount
+3006,3113,1,Purchases
+320,3005,3,Balance Transfer Amount
+106,4021,5,Purchases
+3001,4021,5,Purchases
+3031,3084,5,Purchases
+104,3130,3,Convenience Check Amount
+3001,2228,1,Purchases
+3006,2228,1,Purchases
+104,3141,3,Convenience Check Amount
+3006,4021,5,Purchases
+218,3142,3,Balance Transfer Amount
+218,3131,3,Balance Transfer Amount
+131,2,2,Cash Advance Amount
+101,4021,5,Purchases
+160,4021,5,Purchases
+300,3131,3,Balance Transfer Amount
+228,8326,28,Convenience Check Amount
+101,2005,2,Purchases
+101,2016,2,Purchases
+102,2,5,Cash Advance Amount
+104,4,3,Convenience Check Amount
+104,8333,21,Convenience Check Amount
+104,8334,21,Convenience Check Amount
+104,8350,25,Convenience Check Amount
+104,8362,28,Balance Transfer Amount
+104,8374,31,Convenience Check Amount
+105,3,5,Cash Advance Amount
+218,8333,21,Balance Transfer Amount
+218,8334,21,Convenience Check Amount
+218,8734,21,Balance Transfer Amount
+218,8349,25,Balance Transfer Amount
+219,8501,5,Cash Advance Amount
+378,2,5,Cash Advance Amount
+1003,3,5,Cash Advance Amount
+3002,2,5,Cash Advance Amount
+3005,3,5,Cash Advance Amount
+3008,2,5,Cash Advance Amount
